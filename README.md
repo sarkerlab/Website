@@ -18,7 +18,7 @@ If you do not have a [github account](https://github.com/), you will need to mak
 ### Running Jekyll locally
 
 1. Open your terminal
-2. Using the terminal, cd into the directory where you cloned the Website code `cd ~/your_directory/Website`
+2. Using the terminal, cd to the directory where you cloned the Website code e.g. `cd ~/your_directory/Website`
 3. Once there, run the command `jekyll serve`. You should receive an output where it shows a line like `Server address: http://localhost:4000`
 
 Now, you can peruse the local version of the website as if it is live! Any changes you make to the codebase while jekyll is still "serving" the website pages, will appear in localhost (you may need to refresh the page for the changes to show up).
