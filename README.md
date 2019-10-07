@@ -15,7 +15,7 @@ If you do not have a [github account](https://github.com/), you will need to mak
 
 > Note: You will need to familiarize yourself with how Git works - there are plenty of tutorials and I would suggest the official tutorial from the [Git Website](git-scm.com).
 
-### Running Jekyll Locally
+### Running Jekyll locally
 
 1. Open your terminal
 2. Using the terminal, cd into the directory where you cloned the Website code `cd ~/your_directory/Website`
@@ -63,20 +63,6 @@ To add people to the peoples page, go to the file `members.yml` in the _data fil
 -
 ```
 
-Make sure if you want to include an image alongside a person's profile, to put that image in the _site/assets/img folder.
-
-> Note: Do not forget the hyphens and indentation levels! yml files are quite picky.
-
-## Updating the Rest of the Website
-
-The rest of the website is much easier to update. Here are locations for files and what files to edit to get the desired changes:
-
-+ Update  `__people/__`
-+ Update Info (onboarding) at `__info.md__`
-+ Update Ethics at ` __ethics.md__`
-+ Update Jobs Page at ` __jobs.md__`
-
-
 ## Adding Publications
 
 To update the publications to the publications page, go to the file `members.yml` in the _data file. To add a new person to the members page, add new yml like so:
@@ -95,20 +81,9 @@ To update the publications to the publications page, go to the file `members.yml
 -
 ```
 
-Make sure if you want to include an image alongside a person's profile, to put that image in the _site/assets/img folder.
-
-> Note: Do not forget the hyphens and indentation levels! yml files are quite picky.
-
 ## Updating the Rest of the Website
 
 The rest of the website is much easier to update. Here are locations for files and what files to edit to get the desired changes:
 
-+ Update Alumni or Gari's bio in `__people/__`
-+ Update Info (onboarding) at `__info.md__`
-+ Update Ethics at ` __ethics.md__`
-+ Update Jobs Page at ` __jobs.md__`
-
-
----
 
 # Notes
