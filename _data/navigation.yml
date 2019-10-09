@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /
     description: "yes"
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   - title: "People"
     url: /people/
   - title: "Publications"
