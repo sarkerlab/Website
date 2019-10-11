@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
-  - image_path: /assets/images/man.jpg
+  - image_path: /assets/images/man.png
     title: "Botao Li"
     excerpt: "Graduate Research Student"  
   - image_path: /assets/images/whitney.jpg
