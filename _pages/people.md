@@ -10,6 +10,12 @@ feature_row:
   - image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker"
     excerpt: "Leader"
+  - image_path: /assets/images/yuan-chi.jpg
+    title: "Yuan-Chi Yang"
+    excerpt: "Postdoctoral Scholar"
+  - image_path: /assets/images/man.jpeg
+    title: "Botao Li"
+    excerpt: "Graduate Research Student"  
   - image_path: /assets/images/whitney.jpg
     title: "Whitney Hogg"
     excerpt: "Software Engineer"
