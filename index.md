@@ -17,7 +17,7 @@ feature_row:
   - #image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "NL Processing"
-    #excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn more"
