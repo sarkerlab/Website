@@ -26,14 +26,14 @@ team:
     excerpt: "Software Engineer"
 collaborators:
   - image_path: /assets/images/man.png
-    title: "Coming Soon"
-    excerpt: "Collaborator"
+    title: "Dr. Graciela Gonzalez-Hernandez"
+    excerpt: "University of Pennsylvania"
   - image_path: /assets/images/man.png
-    title: "Coming Soon"
-    excerpt: "Collaborator"
+    title: "Dr. Jeanmarie Perrone"
+    excerpt: "University of Pennsylvania"
   - image_path: /assets/images/man.png
-    title: "Coming Soon"
-    excerpt: "Collaborator"
+    title: "Sangmi Kim"
+    excerpt: "School of Nursing, Emory University"
   - image_path: /assets/images/man.png
     title: "Coming Soon"
     excerpt: "Collaborator"  
