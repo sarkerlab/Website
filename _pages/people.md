@@ -8,7 +8,7 @@ classes: wide
 author_profile: false
 team:
   - image_path: /assets/images/abeed2.jpg
-    title: "Abeed Sarker, PH.D."
+    title: "Abeed Sarker"
     excerpt: "Principal Investigator"
     
   - image_path: /assets/images/yuan-chi.jpg
@@ -20,7 +20,7 @@ team:
     excerpt: "Graduate Research Student"
   - image_path: /assets/images/whitney.jpg
     title: "Whitney Hogg"
-    excerpt: "Software Engineer"
+    excerpt: "Project Manager/Software Engineer"
   - image_path: /assets/images/coreyshaw.jpg
     title: "Corey Shaw"
     excerpt: "Software Engineer"
