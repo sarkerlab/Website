@@ -26,10 +26,10 @@ team:
     excerpt: "Software Engineer"
 collaborators:
   - image_path: /assets/images/man.png
-    title: "Dr. Graciela Gonzalez-Hernandez"
+    title: "Graciela Gonzalez-Hernandez"
     excerpt: "University of Pennsylvania"
   - image_path: /assets/images/man.png
-    title: "Dr. Jeanmarie Perrone"
+    title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
   - image_path: /assets/images/man.png
     title: "Sangmi Kim"
