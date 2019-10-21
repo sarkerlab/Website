@@ -10,7 +10,7 @@ team:
   - image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker, PH.D."
     excerpt: "Principal Investigator"
-    url: https://abeedsarker.com/home/
+    
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
