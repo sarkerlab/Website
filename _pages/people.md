@@ -25,24 +25,24 @@ team:
     title: "Corey Shaw"
     excerpt: "Software Engineer"
 collaborators:
-  - image_path: /assets/images/man.png
+  - image_path: /assets/images/gragon.jpg
     title: "Graciela Gonzalez-Hernandez"
     excerpt: "University of Pennsylvania"
   - image_path: /assets/images/man.png
     title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
-  - image_path: /assets/images/man.png
+  - image_path: /assets/images/jeanmarie.jpg
     title: "Sangmi Kim"
     excerpt: "School of Nursing, Emory University"
-  - image_path: /assets/images/man.png
-    title: "Coming Soon"
+  - image_path: /assets/images/sangmi_kim.jpg
+    title: "Karen O'Connor"
     excerpt: "Collaborator"  
-  - image_path: /assets/images/man.png
-    title: "Coming Soon"
-    excerpt: "Collaborator"
-  - image_path: /assets/images/man.png
-    title: "Coming Soon"
-    excerpt: "Collaborator"
+  - image_path: /assets/images/karen_oconnor.jpg
+    title: "Karen O'Connor"
+    excerpt: "University of Pennsylvania"
+  - image_path: /assets/images/haitao.jpg
+    title: "Haitao Cai"
+    excerpt: "University of Pennsylvania"
 
 alumni:
 - image_path: /assets/images/man.png
