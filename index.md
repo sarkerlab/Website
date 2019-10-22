@@ -17,7 +17,7 @@ feature_row:
   Our research areas include
   - #image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "NL Processing"
+    title: "Natural Language Processing"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: ""
     btn_class: "btn--primary"
