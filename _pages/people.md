@@ -36,7 +36,7 @@ collaborators:
     excerpt: "School of Nursing, Emory University"
   - image_path: /assets/images/sangmi_kim.jpg
     title: "Karen O'Connor"
-    excerpt: "Collaborator"  
+    excerpt:  "Collaborator"  
   - image_path: /assets/images/karen_oconnor.jpg
     title: "Karen O'Connor"
     excerpt: "University of Pennsylvania"
