@@ -1,5 +1,5 @@
 ---
-title: \*Under Construction\*
+title: The Sarker Lab at Emory University DBMI
 layout: splash
 permalink: /
 header:
