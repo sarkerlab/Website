@@ -28,7 +28,7 @@ collaborators:
   - image_path: /assets/images/gragon.jpg
     title: "Graciela Gonzalez-Hernandez"
     excerpt: "University of Pennsylvania"
-  - image_path: /assets/images/jeanmarie.jpg
+  - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
   - image_path: /assets/images/sangmi_kim.jpg
