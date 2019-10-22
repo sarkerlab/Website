@@ -10,13 +10,7 @@ header:
   #    url: "/docs/quick-start-guide/"
 excerpt: >
   Open Positions:<br />
-  We have positions open for 
-  <ul>
-  <li> PhD students</li> 
-  <li>Research Scientists</li> 
-  <li> Data Analysts </li>
-  <li> Research Assistants</li>
-  </ul>
+  
   Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health. 
   If interested, please email the lab director directly: abeed@dbmi.emory.edu
 
