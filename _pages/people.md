@@ -14,7 +14,6 @@ team:
     email: mailto:abeed@dbmi.emory.edu
     site: "https://abeedsarker.com/"
     pubs: "https://scholar.google.com/citations?user=ShFx9OAAAAAJ&hl=en"
-    
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
