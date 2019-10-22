@@ -15,7 +15,7 @@ team:
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
     id: "row2"
-  - image_path: /assets/images/man.png
+  - image_path: /assets/images/botao_li.jpg
     title: "Botao Li"
     excerpt: "Graduate Research Student"
   - image_path: /assets/images/whitney.jpg
