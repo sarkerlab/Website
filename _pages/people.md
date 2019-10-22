@@ -45,18 +45,21 @@ collaborators:
     excerpt: "TBA."
 
 alumni:
-- image_path: /assets/images/man.png
-  title: "Coming Soon"
-  excerpt: "Alumni"
-- image_path: /assets/images/man.png
-  title: "Coming Soon"
-  excerpt: "Alumni"
-- image_path: /assets/images/man.png
-  title: "Coming Soon"
-  excerpt: "Alumni"
-- image_path: /assets/images/man.png
-  title: "Coming Soon"
-  excerpt: "Alumni"      
+- image_path: /assets/images/Annika.jpg
+  title: "Annika DeRoos"
+  excerpt: "Undergraduate Research Assistant"
+- image_path: /assets/images/Aslamah.jpg
+  title: "Aslamah Rahman"
+  excerpt: "Graduate Research Assistant"
+- image_path: /assets/images/Xinqi.jpg
+  title: "Xinqi Li"
+  excerpt: "Graduate Research Assistant"
+- image_path: /assets/images/yucheng.jpg
+  title: "Yucheng Ruan"
+  excerpt: "Graduate Research Assistant"      
+- image_path: /assets/images/maurice.png
+  title: "Maurice Pollard"
+  excerpt: "Web Developer"      
 
 ---
 
