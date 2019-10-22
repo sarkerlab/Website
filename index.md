@@ -14,6 +14,7 @@ excerpt: >
   Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health. If interested, please email the lab director directly: abeed@dbmi.emory.edu
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
 feature_row:
+  Our research areas include
   - #image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "NL Processing"
