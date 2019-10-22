@@ -60,12 +60,6 @@ alumni:
 - image_path: /assets/images/maurice.png
   title: "Maurice Pollard"
   excerpt: "Web Developer"
-  - image_path: /assets/images/yucheng.jpg
-  title: "Yucheng Ruan"
-  excerpt: "Graduate Research Assistant"      
-- image_path: /assets/images/maurice.png
-  title: "Maurice Pollard"
-  excerpt: "Web Developer" 
 
 ---
 
