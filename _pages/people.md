@@ -31,7 +31,7 @@ collaborators:
   - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
-  - image_path: /assets/images/sangmi_kim.jpg
+  - image_path: /assets/images/sangmi_kim.png
     title: "Sangmi Kim"
     excerpt: "School of Nursing, Emory University"
   - image_path: /assets/images/karen_oconnor.png
