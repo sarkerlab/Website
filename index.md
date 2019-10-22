@@ -45,6 +45,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more.."      
 ---
+
 <h1>Projects</h1>
 {% include feature_row %}
 
