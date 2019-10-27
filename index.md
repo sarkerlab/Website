@@ -17,7 +17,8 @@ excerpt: >
    Conduct high-quality <b>interdisciplinary research</b> to solve targeted problems in the <b>broader health domain</b> <br />
    <b> Create</b> and <b>share</b> text mining, machine learning, natural language processing and artificial intelligence software solutions that are <b>easily usable</b> by <b>medical and public health domain experts</b> <br /> <br />
   
-  We are hiring <u>PhD Students</u>, <u>Research Scientists</u>, <u>Data Analysts</u> and <u>Research Assistants</u>. Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health.
+  NOTICE:  <br />
+  We are seeking <u>PhD Students</u>, <u>Research Scientists</u>, <u>Data Analysts</u> and <u>Research Assistants</u>. Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health.
   If interested, please email the lab director directly: abeed@dbmi.emory.edu 
   </font>
 
