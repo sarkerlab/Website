@@ -9,6 +9,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
+<font color="white">
   <h2>Research Objectives:</h2>
    Build <b> portable </b>, <b> customizable </b> and <b> interpretable </b> systems for health-related free text processing. <br />
    Develop <b>end-to-end solutions</b> to solve <b>medical</b> and <b>public health problems</b> of high significance <br />
@@ -17,7 +18,7 @@ excerpt: >
    <b> Create</b> and <b>share</b> text mining, machine learning, natural language processing and artificial intelligence software solutions that are <b>easily usable</b> by <b>medical and public health domain experts</b> <br /> <br />
   
   We are hiring <u>PhD Students</u>, <u>Research Scientists</u>, <u>Data Analysts</u> and <u>Research Assistants</u>. Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health.
-  If interested, please email the lab director directly: abeed@dbmi.emory.edu
+  If interested, please email the lab director directly: abeed@dbmi.emory.edu </font>
 
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
 feature_row:
