@@ -1,5 +1,5 @@
 ---
-title: We create valuable and actionable medical knowledge from free text data ..
+title: We generate medical knowledge from free text data through innovations in data science and <u> natural language processing </u>
 layout: splash
 permalink: /
 header:
