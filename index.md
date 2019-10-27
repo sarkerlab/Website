@@ -9,7 +9,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-<font color="white">
+  <font color="white">
   <h2>Research Objectives:</h2>
    Build <b> portable </b>, <b> customizable </b> and <b> interpretable </b> systems for health-related free text processing. <br />
    Develop <b>end-to-end solutions</b> to solve <b>medical</b> and <b>public health problems</b> of high significance <br />
