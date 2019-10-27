@@ -18,8 +18,9 @@ excerpt: >
    <b> Create</b> and <b>share</b> text mining, machine learning, natural language processing and artificial intelligence software solutions that are <b>easily usable</b> by <b>medical and public health domain experts</b> <br /> <br />
   
   NOTICE:  <br />
-  We are seeking <u>PhD Students</u>, <u>Research Scientists</u>, <u>Data Analysts</u> and <u>Research Assistants</u>. Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health.
-  If interested, please email the lab director directly: abeed@dbmi.emory.edu 
+  We are seeking <u>PhD Students</u>, <u>Research Scientists</u>, <u>Data Analysts</u> and <u>Research Assistants</u>. Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health. <br />
+  
+  If interested, please email the lab director directly at: abeed@dbmi.emory.edu 
   </font>
 
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
