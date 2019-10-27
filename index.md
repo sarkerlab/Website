@@ -35,14 +35,14 @@ feature_row:
   - #image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Portable Natural Language Processing"
-    excerpt: "We are continuously developing BioNLP software that are portable across medical domain problems, and don't <u>live and die</u> with narrow-scope medical studies. We  build methods for text classification, information detection and extraction, text representation and normalization, topic analyses and visualization."
+    excerpt: "We are continuously developing BioNLP software that are portable across medical domain problems, and don't <b>live and die</b> with narrow-scope medical studies. We  implement methods for text classification, information detection and extraction, text representation and normalization, topic analyses and visualization."
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - #image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Software and Data Creation"
-    #excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Social Media Mining"
+    excerpt: "Social networks contain abundant information on every topic. Adoption of social media is now at an all-time high, and the number of people using social media continues to grow. We are innovating strategies for curating and utilizing social media data for medical and public health tasks. We are also continuously exploring new uses for social media data."
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn more"
