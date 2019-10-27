@@ -11,7 +11,7 @@ header:
 excerpt: >
   Research objectives:<br />
   <ul>
-  <li/> We have positions open for 
+  <li/> Build <b> portable </b>, <b> customizable </b> and <b> interpretable </b> systems for free text processing.
   <li/>
     </ul>
   PhD student, Research Scientists, Data Analysts, Research Assistants
