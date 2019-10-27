@@ -1,5 +1,5 @@
 ---
-title: The Sarker Lab at Emory University DBMI
+title: We create valuable and actionable medical knowledge from free text data 
 layout: splash
 permalink: /
 header:
