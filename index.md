@@ -49,7 +49,7 @@ feature_row:
   - #image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "Public Research Resources"
-    excerpt: "We strongly believe in community-driven and reproducible research. Therefore, we commited to create health text mining resources, data and programs, and releasing them publicly to the research community. "
+    excerpt: "We strongly believe in community-driven and reproducible research. Therefore, we commited to create health text mining resources, data and software, and releasing them publicly to the research community. "
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn more"      
