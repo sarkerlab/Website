@@ -28,14 +28,14 @@ feature_row:
   - #image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Prescription and Illicit Drug Use"
-    excerpt: "Despite the ongoing opioid crisis, current strategies for close-to-real-time monitoring and characterizing drug usage are laggy. We are building methods and tools that leverage data from sources such as social media and electronic health records to generate statistics in close to real time, predict potential future problems, and empower domain experts who are fighting the crisis."
+    excerpt: "Despite the ongoing opioid crisis, current strategies for close-to-real-time monitoring and characterizing drug usage are laggy. <b>We are building methods and tools that leverage data from sources such as social media and electronic health records to generate statistics in close to real time, predict potential future problems, and empower domain experts who are fighting the crisis </b>."
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - #image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Natural Language Processing"
-    excerpt: "A significant"
+    title: "Portable Natural Language Processing"
+    excerpt: "We are continuously developing BioNLP software that are portable across medical domain problems, and don't <u>live and die</u> with narrow-scope medical studies. We  build methods for text classification, information detection and extraction, text representation and normalization, and visualization."
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn more"
