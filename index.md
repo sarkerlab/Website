@@ -49,7 +49,7 @@ feature_row:
 ---
 
 <h1>Focus Areas</h1>
-<p>Our research areas include..<p>
+<p>The following is a summary of our current focus areas.<p>
 {% include feature_row %}
 
 ---
