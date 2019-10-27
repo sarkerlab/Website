@@ -13,8 +13,8 @@ excerpt: >
    Build <b> portable </b>, <b> customizable </b> and <b> interpretable </b> systems for health-related free text processing. <br />
    Develop <b>end-to-end solutions</b> to solve <b>medical</b> and <b>public health problems</b> of high significance <br />
    <b>Design</b>, <b>implement</b> and <b>deploy</b> innovative <b>natural language processing</b> and <b>machine learning</b> methods for health-related free text (and other) data <br />
-   Conduct high-quality interdisciplinary research to solve targeted problems in the broader health domain <br />
-   Create and share text mining, machine learning, natural language processing and artificial intelligence software for the global health informatics community <br />
+   Conduct high-quality <b>interdisciplinary research</b> to solve targeted problems in the <b>broader health domain</b> <br />
+   <b> Create</b> and <b>share</b> text mining, machine learning, natural language processing and artificial intelligence software solutions that are <b>easily usable</b> by <b>medical and public health domain experts</b> <br />
   
     
   PhD student, Research Scientists, Data Analysts, Research Assistants
