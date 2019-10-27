@@ -27,8 +27,8 @@ excerpt: >
 feature_row:
   - #image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Natural Language Processing"
-    excerpt: "A significant"
+    title: "Prescription and Illicit Drug Use"
+    excerpt: "Despite the ongoing opioid crisis, current strategies for close-to-real-time monitoring and characterizing drug usage are laggy. We are building methods and tools that leverage data from sources such as social media and electronic health records to generate statistics in close to real time, predict potential future problems, and empower domain experts who are fighting the crisis."
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -56,7 +56,7 @@ feature_row:
 ---
 
 <h1>Focus Areas</h1>
-<p>We strive to design and build <b>natural language processing</b> and <b> machine learning</b> frameworks that are portable across medical and public health problems. We put particular attention to ensuring that technological innovations in data science, NLP, machine learning and artificial intelligence comply to the specific needs of the medical domain. These needs include, but are not limited to, interpretability, simplicity, reliability and timeliness. The following are some of our current specific focus areas.. 
+<p>We strive to design and build <b>natural language processing</b> and <b> machine learning</b> frameworks that are portable across medical and public health problems. We put particular attention to ensuring that technological innovations in data science, NLP, machine learning and artificial intelligence comply to the specific needs of the medical domain. These needs include, but are not limited to, interpretability, simplicity, reliability and timeliness. The following are some of our current specific focus areas. 
   
   <p>
 {% include feature_row %}
