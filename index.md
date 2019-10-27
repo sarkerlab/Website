@@ -14,12 +14,14 @@ excerpt: >
    Develop <b>end-to-end solutions</b> to solve <b>medical</b> and <b>public health problems</b> of high significance <br />
    <b>Design</b>, <b>implement</b> and <b>deploy</b> innovative <b>natural language processing</b> and <b>machine learning</b> methods for health-related free text (and other) data <br />
    Conduct high-quality <b>interdisciplinary research</b> to solve targeted problems in the <b>broader health domain</b> <br />
-   <b> Create</b> and <b>share</b> text mining, machine learning, natural language processing and artificial intelligence software solutions that are <b>easily usable</b> by <b>medical and public health domain experts</b> <br />
+   <b> Create</b> and <b>share</b> text mining, machine learning, natural language processing and artificial intelligence software solutions that are <b>easily usable</b> by <b>medical and public health domain experts</b> <br /> <br />
   
-    
-  PhD student, Research Scientists, Data Analysts, Research Assistants
-  Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health. 
-  If interested, please email the lab director directly: abeed@dbmi.emory.edu ...
+
+*NOTICE*< br/>
+  
+  We are hiring PhD students, Research Scientists, Data Analysts and Research Assistants <br />
+  Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health. <br /> 
+  If interested, please email the lab director directly: abeed@dbmi.emory.edu .
 
 #  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
 feature_row:
