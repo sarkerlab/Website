@@ -48,8 +48,8 @@ feature_row:
     btn_label: "Learn more"
   - #image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "Social Media Mining"
-    #excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    title: "Public Research Resources"
+    excerpt: "We strongly believe in community-driven and reproducible research. Therefore, we commited to create health text mining resources, data and programs, and releasing them publicly to the research community. "
     url: ""
     btn_class: "btn--primary"
     btn_label: "Learn more"      
