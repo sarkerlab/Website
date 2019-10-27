@@ -1,5 +1,5 @@
 ---
-title: We create valuable and actionable medical knowledge from free text data 
+title: We create valuable and actionable medical knowledge from free text data ..
 layout: splash
 permalink: /
 header:
