@@ -10,10 +10,11 @@ header:
   #    url: "/docs/quick-start-guide/"
 excerpt: >
   Research objectives:<br />
-  <ul>
-  <li/> Build <b> portable </b>, <b> customizable </b> and <b> interpretable </b> systems for free text processing.
-  <li/>
-    </ul>
+   Build <b> portable </b>, <b> customizable </b> and <b> interpretable </b> systems for health-related free text processing. <br/>
+   Develop end-to-end solutions to solve medical and public health problems of high significance </br>
+   Design, implement and deploy state-of-the-art natural language processing and machine learning methods for health-related free text (and other) data
+  
+    
   PhD student, Research Scientists, Data Analysts, Research Assistants
   Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health. 
   If interested, please email the lab director directly: abeed@dbmi.emory.edu ...
