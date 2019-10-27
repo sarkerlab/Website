@@ -3,7 +3,7 @@ title: We generate actionable <font color="#ADDFFF"><u>medical knowledge</u></fo
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#5e616d"
   #overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
