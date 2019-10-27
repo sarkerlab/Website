@@ -9,9 +9,11 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  Open Positions:<br />
-  We have positions open for 
- 
+  Research objectives:<br />
+  <ul>
+  <li/> We have positions open for 
+  <li/>
+    </ul>
   PhD student, Research Scientists, Data Analysts, Research Assistants
   Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health. 
   If interested, please email the lab director directly: abeed@dbmi.emory.edu ...
