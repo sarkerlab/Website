@@ -10,9 +10,11 @@ header:
   #    url: "/docs/quick-start-guide/"
 excerpt: >
   Research objectives:<br />
-   Build <b> portable </b>, <b> customizable </b> and <b> interpretable </b> systems for health-related free text processing. <br/>
-   Develop end-to-end solutions to solve medical and public health problems of high significance </br>
-   Design, implement and deploy state-of-the-art natural language processing and machine learning methods for health-related free text (and other) data
+   Build <b> portable </b>, <b> customizable </b> and <b> interpretable </b> systems for health-related free text processing. <br />
+   Develop end-to-end solutions to solve medical and public health problems of high significance <br />
+   Design, implement and deploy innovative natural language processing and machine learning methods for health-related free text (and other) data <br />
+   Conduct high-quality interdisciplinary research to solve targeted problems in the broader health domain <br />
+   Create and share text mining, machine learning, natural language processing and artificial intelligence software for the global health informatics community <br />
   
     
   PhD student, Research Scientists, Data Analysts, Research Assistants
