@@ -48,7 +48,7 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-<h1>Projects</h1>
+<h1>Focus Areas</h1>
 <p>Our research areas include..<p>
 {% include feature_row %}
 
