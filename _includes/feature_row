@@ -42,9 +42,33 @@
             </div>
           {% endif %}
 
+          <div style= "margin-bottom: 35px;">
+            {% if f.linkedin %}
+              <a href="{{f.linkedin}}" style= "color:rgb(0, 115, 176); margin-right: 10px;" alt="Linkedin"> <i class="fab fa-linkedin fa-2x" title="Linkedin"></i></a>
+            {% endif %}
+
+            {% if f.twitter %}
+              <a href="{{f.twitter}}" style= "color:rgba(29,161,242,1.00); margin-right: 10px;" alt="Twitter"> <i class="fab fa-twitter-square fa-2x" title="Twitter"></i></a>
+            {% endif %}
+
+            {% if f.email %}
+              <a href="{{f.email}}" style= "color:#1b1b1b; margin-right: 10px;" alt="Email"> <i class="fas fa-envelope-square fa-2x" title="Email"></i></a>
+            {% endif %}
+
+            {% if f.pubs %}
+              <a href="{{f.pubs}}" style= "color:#0aef3f; margin-right: 10px;"> <i class="fab fa-researchgate fa-2x" title="Publications"></i></a>
+            {% endif %}
+
+            {% if f.site %}
+              <a href="{{f.site}}" style= "color:#868e96;" alt="Website"><i class="fas fa-external-link-square-alt fa-2x" title="Website"></i></a>
+            {% endif %}
+
+          </div>
+
           {% if f.url %}
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
+
         </div>
       </div>
     </div>

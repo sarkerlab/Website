@@ -33,6 +33,17 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
   </article>
+  {% if post.data %}
+    <a href="{{ post.data }}" class="btn btn-link" target="_blank"><i class="fas fa-chart-bar"></i> Data</a>
+  {% endif %}
+  {% if post.code %}
+    <a href="{{ post.code }}" class="btn btn-link" target="_blank"><i class="fa fa-code"></i>  Code</a>
+  {% endif %}
+  {% if post.resource %}
+    <a href="{{ post.resource }}" class="btn btn-link" target="_blank"><i class="fa fa-tools" download></i>  Resource</a>
+  {% endif %}
+  <br>
+  <br>
 </div>

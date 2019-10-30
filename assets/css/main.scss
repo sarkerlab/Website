@@ -6,3 +6,17 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+.btn-link{
+    margin-top: 5px;
+    background-color: #fff;
+    color:  #5197ad;
+    border: 1.5px solid #5197ad;
+    -webkit-box-shadow: 0 1px 6px rgba(57,73,76,0.35);
+    box-shadow: 0 1px 6px rgba(57,73,76,0.35);
+}
+
+.archive__item-teaser img {
+    width: 75%;
+}

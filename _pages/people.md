@@ -10,10 +10,10 @@ team:
   - image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
-    twitter: "https://twitter.com/sarkerabeed"
+    twitter: https://twitter.com/sarkerabeed
     email: mailto:abeed@dbmi.emory.edu
-    site: "https://abeedsarker.com/"
-    pubs: "https://scholar.google.com/citations?user=ShFx9OAAAAAJ&hl=en"
+    site: https://abeedsarker.com
+    pubs: https://scholar.google.com/citations?user=ShFx9OAAAAAJ&hl=en
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
@@ -27,6 +27,9 @@ team:
   - image_path: /assets/images/coreyshaw.jpg
     title: "Corey Shaw"
     excerpt: "Software Engineer"
+    email: mailto:coreyrshaw@gmail.com
+    linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
+
 collaborators:
   - image_path: /assets/images/gragon.jpg
     title: "Graciela Gonzalez-Hernandez"
