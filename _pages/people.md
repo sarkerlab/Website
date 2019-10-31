@@ -56,8 +56,8 @@ collaborators:
     excerpt: "University of Pennsylvania"
     site: https://healthlanguageprocessing.org/
   - image_path: /assets/images/man.png
-    title: "TBA."
-    excerpt: "TBA."
+    title: "TBA.."
+    excerpt: "TBA.."
 
 alumni:
 - image_path: /assets/images/Annika.jpg
