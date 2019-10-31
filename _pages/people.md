@@ -38,6 +38,7 @@ collaborators:
   - image_path: /assets/images/gragon.jpg
     title: "Graciela Gonzalez-Hernandez"
     excerpt: "University of Pennsylvania"
+    site: https://healthlanguageprocessing.org/
   - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
