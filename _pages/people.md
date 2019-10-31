@@ -12,6 +12,7 @@ team:
     excerpt: "Principal Investigator"
     twitter: https://twitter.com/sarkerabeed
     site: https://abeedsarker.com
+    site: https://scholar.google.com/citations?user=ShFx9OAAAAAJ
     pubs: https://www.researchgate.net/profile/Abeed_Sarker
     email: mailto:abeed@dbmi.emory.edu
   - image_path: /assets/images/yuan-chi.jpg
