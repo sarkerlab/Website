@@ -42,15 +42,19 @@ collaborators:
   - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
+    site: https://www.med.upenn.edu/apps/faculty/index.php/g321/p1870
   - image_path: /assets/images/sangmi_kim.png
     title: "Sangmi Kim"
     excerpt: "School of Nursing, Emory University"
+    site: http://www.nursing.emory.edu/faculty-and-research/directory/profile.html?id=4925
   - image_path: /assets/images/karen_oconnor.png
     title: "Karen O'Connor"
     excerpt: "University of Pennsylvania"  
+    site: https://healthlanguageprocessing.org/
   - image_path: /assets/images/haitao.jpg
     title: "Haitao Cai"
     excerpt: "University of Pennsylvania"
+    site: https://healthlanguageprocessing.org/
   - image_path: /assets/images/man.png
     title: "TBA.."
     excerpt: "TBA.."
