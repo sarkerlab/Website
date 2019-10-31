@@ -11,16 +11,19 @@ team:
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
     twitter: https://twitter.com/sarkerabeed
-    email: mailto:abeed@dbmi.emory.edu
     site: https://abeedsarker.com
-    pubs: https://scholar.google.com/citations?user=ShFx9OAAAAAJ&hl=en
+    pubs: https://www.researchgate.net/profile/Abeed_Sarker
+    email: mailto:abeed@dbmi.emory.edu
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
+    linkedin: https://www.linkedin.com/in/yuan-chi-yang/
+    email: mailto:yuan-chi.yang@emory.edu
     id: "row2"
   - image_path: /assets/images/botao_li.jpg
     title: "Botao Li"
     excerpt: "Graduate Research Student"
+    linkedin: https://www.linkedin.com/in/botao-li/
   - image_path: /assets/images/whitney.jpg
     title: "Whitney Hogg"
     excerpt: "Project Manager/Software Engineer"
