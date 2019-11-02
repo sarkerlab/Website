@@ -25,6 +25,7 @@ team:
     title: "Mohammed Ali Al-Garadi"
     excerpt: "Postdoctoral Scholar"
     site: https://scholar.google.com/citations?user=OVSHl-sAAAAJ
+    email: mailto:mohammed.ali.derhem.al-garadi@emory.edu
     id: "row2"
   - image_path: /assets/images/botao_li.jpg
     title: "Botao Li"
