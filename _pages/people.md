@@ -36,7 +36,7 @@ team:
     excerpt: "Project Manager/Software Engineer"
   - image_path: /assets/images/coreyshaw.jpg
     title: "Corey Shaw"
-    excerpt: "Software Engineer/Developer"
+    excerpt: "Software Engineer"
     email: mailto:coreyrshaw@gmail.com
     linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
 
