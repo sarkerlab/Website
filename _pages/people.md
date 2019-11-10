@@ -53,6 +53,14 @@ collaborators:
     title: "Sangmi Kim"
     excerpt: "School of Nursing, Emory University"
     site: http://www.nursing.emory.edu/faculty-and-research/directory/profile.html?id=4925
+  - image_path: /assets/images/jane_zhu.png
+    title: "Jane Zhu"
+    excerpt: "Oregon Health and Science University"
+    site: https://www.ohsu.edu/people/jane-m-zhu/EEC944A6C243CC28F1D2AA33D3D88BE5
+  - image_path: /assets/images/dave_grande.png
+    title: "David T Grande"
+    excerpt: "University of Pennsylvania"
+    site: https://ldi.upenn.edu/expert/david-t-grande-md-mpa
   - image_path: /assets/images/karen_oconnor.png
     title: "Karen O'Connor"
     excerpt: "University of Pennsylvania"  
