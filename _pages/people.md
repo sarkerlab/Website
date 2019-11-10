@@ -55,7 +55,7 @@ collaborators:
     site: http://www.nursing.emory.edu/faculty-and-research/directory/profile.html?id=4925
   - image_path: /assets/images/jane_zhu.jpg
     title: "Jane Zhu"
-    excerpt: "Oregon Health and Science University"
+    excerpt: "Oregon Health & Science University"
     site: https://www.ohsu.edu/people/jane-m-zhu/EEC944A6C243CC28F1D2AA33D3D88BE5
   - image_path: /assets/images/dave_grande.jpg
     title: "David T Grande"
