@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /pm_abuse_data/
 title: "PM Abuse Data JMIR"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
