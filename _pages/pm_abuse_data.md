@@ -16,11 +16,10 @@ last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
 
-Add description text here...
-
+TBA
 ## Abstract Text
 
-TBA
+coming soon...
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
