@@ -47,7 +47,7 @@ From there, you should be set to go! Enjoying playing around with Jekyll locally
 
 ## Adding People
 
-To add or update people, you will need go to the file `people.md` in the _pages folder. Use the following format and attritubes:
+To add or update people, you will need go to the file `people.md` in the _pages folder. Add the following format and attritubes:
 
 ```
 -
@@ -63,7 +63,7 @@ To add or update people, you will need go to the file `people.md` in the _pages 
 -
 ```
 
-## Adding Publication
+## Adding Publications
 
 To add a new publication page, you will need to create a new file in the `_posts` folder. Publications will be categorized according to the YEAR-MONTH-DAY-title format.
 
@@ -78,7 +78,7 @@ YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and title
 
 ## Updating Publications
 
-To update or finish creating a publication, use the following format and attritubes in the existing publication's file. 
+To update or finish creating a publication, add the following format and attritubes in the existing publication's file. 
 
 ```
 -
