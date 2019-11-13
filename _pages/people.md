@@ -11,16 +11,26 @@ team:
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
     twitter: https://twitter.com/sarkerabeed
-    email: mailto:abeed@dbmi.emory.edu
     site: https://abeedsarker.com
-    pubs: https://scholar.google.com/citations?user=ShFx9OAAAAAJ&hl=en
+    pubs: https://www.researchgate.net/profile/Abeed_Sarker
+    linkedin: https://www.linkedin.com/in/abeed-sarker-572a1921/
+    email: mailto:abeed@dbmi.emory.edu
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
+    linkedin: https://www.linkedin.com/in/yuan-chi-yang/
+    email: mailto:yuan-chi.yang@emory.edu
+    id: "row2"
+  - image_path: /assets/images/mohammed_ali.jpg
+    title: "Mohammed Ali Al-Garadi"
+    excerpt: "Postdoctoral Scholar"
+    site: https://scholar.google.com/citations?user=OVSHl-sAAAAJ
+    email: mailto:mohammed.ali.derhem.al-garadi@emory.edu
     id: "row2"
   - image_path: /assets/images/botao_li.jpg
     title: "Botao Li"
     excerpt: "Graduate Research Student"
+    linkedin: https://www.linkedin.com/in/botao-li/
   - image_path: /assets/images/whitney.jpg
     title: "Whitney Hogg"
     excerpt: "Project Manager/Software Engineer"
@@ -34,21 +44,32 @@ collaborators:
   - image_path: /assets/images/gragon.jpg
     title: "Graciela Gonzalez-Hernandez"
     excerpt: "University of Pennsylvania"
+    site: https://healthlanguageprocessing.org/
   - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
+    site: https://www.med.upenn.edu/apps/faculty/index.php/g321/p1870
   - image_path: /assets/images/sangmi_kim.png
     title: "Sangmi Kim"
     excerpt: "School of Nursing, Emory University"
+    site: http://www.nursing.emory.edu/faculty-and-research/directory/profile.html?id=4925
+  - image_path: /assets/images/jane_zhu.jpg
+    title: "Jane Zhu"
+    excerpt: "Oregon Health & Science University"
+    site: https://www.ohsu.edu/people/jane-m-zhu/EEC944A6C243CC28F1D2AA33D3D88BE5
+  - image_path: /assets/images/dave_grande.jpg
+    title: "David Grande"
+    excerpt: "University of Pennsylvania"
+    site: https://ldi.upenn.edu/expert/david-t-grande-md-mpa
   - image_path: /assets/images/karen_oconnor.png
     title: "Karen O'Connor"
     excerpt: "University of Pennsylvania"  
+    site: https://healthlanguageprocessing.org/
   - image_path: /assets/images/haitao.jpg
     title: "Haitao Cai"
     excerpt: "University of Pennsylvania"
-  - image_path: /assets/images/man.png
-    title: "TBA.."
-    excerpt: "TBA.."
+    site: https://healthlanguageprocessing.org/
+  
 
 alumni:
 - image_path: /assets/images/Annika.jpg
