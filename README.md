@@ -78,7 +78,7 @@ YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and title
 
 ## Updating Publications
 
-To update or finish creating a publication, update or add the following format and attritubes in the existing publication's file. 
+To update or finish creating a publication, use the following format and attritubes in the existing publication's file. 
 
 ```
 -
