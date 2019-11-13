@@ -47,7 +47,7 @@ From there, you should be set to go! Enjoying playing around with Jekyll locally
 
 ## Adding People
 
-To add people to the peoples page, go to the file `members.yml` in the _data file. To add a new person to the members page, add new yml like so:
+To add or update people, you will need go to the file `people.md` in the _pages folder. Use the following format and attritubes:
 
 ```
 -
@@ -63,21 +63,32 @@ To add people to the peoples page, go to the file `members.yml` in the _data fil
 -
 ```
 
-## Adding Publications
+## Adding Publication
 
-To update the publications to the publications page, go to the file `members.yml` in the _data file. To add a new person to the members page, add new yml like so:
+To add a new publication page, you will need to create a new file in the `_posts` folder. Publications will be categorized according to the YEAR-MONTH-DAY-title format.
+
+YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and title is the name or phrase of the publicaton. For example, the following are examples of valid publication filenames:
 
 ```
 -
- name: Who, MD
- title: Time Lord
- dept: TARDIS
- location: Space
- picture: /assets/img/who.jpg
- twitter: "https://twitter.com/bbcdoctorwho"
- email: mailto:badwolf@infinitymail.xio
- site: "https://www.doctorwho.tv/"
- pubs: "http://www.bbc.com/"
+2016-07-20-my-publication-name.md
+2015-01-03-publication-title-goes-here.markdown
+-
+```
+
+## Updating Publications
+
+To update or finish creating a publication, use the following format and attritubes in the existing publication's file. 
+
+```
+-
+ authors: "J. Doe, N Smith"
+ title: "Publication title here"
+ additinal info: "Any Additional info about publication."
+ external_url: "https://publication/link/here"
+ data: "https://data/link/here"
+ code: "https://code/link/here"
+ resource: "https://resource/link/here"
 -
 ```
 
