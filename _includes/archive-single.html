@@ -23,18 +23,33 @@
           alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+    <h4 class="archive__item-title" itemprop="headline" style="color: #32859e; font-weight: 300;">
+      {% if post.authors %}
+        {{ post.authors}}.
+      {% endif %}
+      <b>
+      {% if post.title %}
+        {{ post.title}}
+      {% endif %}
+      </b>
+      {% if post.additional_info %}
+        {{ post.additional_info}}:
+      {% endif %}
+
+      <!-- {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.external_url | relative_url }}" target="_blank" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
+      {% endif %} -->
+    </h4>
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
   </article>
+  {% if post.external_url %}
+    <a href="{{ post.external_url}}" class="btn btn-link" target="_blank"><i class="fas fa-link"></i> Link</a>
+  {% endif %}
   {% if post.data %}
     <a href="{{ post.data }}" class="btn btn-link" target="_blank"><i class="fas fa-chart-bar"></i> Data</a>
   {% endif %}
@@ -44,6 +59,7 @@
   {% if post.resource %}
     <a href="{{ post.resource }}" class="btn btn-link" target="_blank"><i class="fa fa-tools" download></i>  Resource</a>
   {% endif %}
+  <br>
   <br>
   <br>
 </div>
