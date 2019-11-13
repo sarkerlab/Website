@@ -94,7 +94,7 @@ To update or finish creating a publication, use the following format and attritu
 
 ## Updating the Rest of the Website
 
-The rest of the website is much easier to update. Here are locations for files and what files to edit to get the desired changes:
+
 
 
 # Notes
