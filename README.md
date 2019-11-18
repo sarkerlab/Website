@@ -1,4 +1,4 @@
-# Welcome to the Sarker Lab Website!
+# Welcome to the [Sarker Lab](https://sarkerlab.org/) Website!
 
 This document will explain how to set up an environment for testing changes to the website before making them live, perform common updates and deploy the website.
 
