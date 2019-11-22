@@ -5,5 +5,4 @@ additional_info: "Expert Systems with Applications 105 (2018)"
 external_url: https://www.sciencedirect.com/science/article/pii/S0957417418302136
 data:
 code:
-resource:
 ---
