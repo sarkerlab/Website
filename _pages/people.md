@@ -93,7 +93,6 @@ alumni:
 - image_path: /assets/images/maurice.png
   title: "Maurice Pollard"
   excerpt: "Web Developer"
-
 ---
 
 <h1>Team Members</h1>
