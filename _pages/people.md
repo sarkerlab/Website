@@ -39,7 +39,7 @@ team:
     excerpt: "Undergraduate Research Assistant"
     linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
   - image_path: /assets/images/whitney.jpg
-    title: "Whitney Hogg"
+    title: "Whitney Hogg "
     excerpt: "Project Manager/Software Engineer"
   - image_path: /assets/images/coreyshaw.jpg
     title: "Corey Shaw"
