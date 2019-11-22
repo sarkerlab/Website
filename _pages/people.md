@@ -18,7 +18,9 @@ team:
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
+    twitter: https://twitter.com/YuanChi_Yang
     linkedin: https://www.linkedin.com/in/yuan-chi-yang/
+    pubs: https://www.researchgate.net/profile/Yuan_Chi_Yang
     email: mailto:yuan-chi.yang@emory.edu
     id: "row2"
   - image_path: /assets/images/mohammed_ali.jpg
@@ -31,6 +33,10 @@ team:
     title: "Botao Li"
     excerpt: "Graduate Research Student"
     linkedin: https://www.linkedin.com/in/botao-li/
+  - image_path: /assets/images/..
+    title: "Demi Majekodunmi"
+    excerpt: "Undergraduate Research Assistant"
+    linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
   - image_path: /assets/images/whitney.jpg
     title: "Whitney Hogg"
     excerpt: "Project Manager/Software Engineer"
