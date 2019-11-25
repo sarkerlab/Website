@@ -80,4 +80,4 @@ Adderall; addiction; Address; adverse outcome; Affect; Age; age group; Algorithm
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York. -->
+Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York -->
