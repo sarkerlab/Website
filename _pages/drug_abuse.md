@@ -75,9 +75,13 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-## Project Terms
+## Funding and Disclosures
 
-Adderall; addiction; Address; adverse outcome; Affect; Age; age group; Algorithms; analog; Artificial Intelligence; Attention; Automation; base; Behavior Therapy; Benzodiazepines; Big Data; Big Data to Knowledge; Categories; Central Nervous System Depressants; Cessation of life; Characteristics; Classification; Clinical; cohort; Cohort Studies; Collection; Communities; Control Groups; Data; Data Collection; Data Set; deep neural network; demographics; design; Detection; Development; Drug abuse; drug misuse; Emergency department visit; Emergency Situation; Encapsulated; Epidemic; Event; experimental group; Exposure to; Fentanyl; Forensic Medicine; Future; Gender; Geographic Locations; Goals; Guidelines; Health; Health Professional; Heart; Heroin; Hospitalization; Individual; Ingestion; innovation; insight; interest; Intervention; intervention program; Investigation; Knowledge; learning strategy; Life; Long-Term Effects; Machine Learning; Manuals; Medical; member; Metadata; Methods; Mining; misuse of prescription only drugs; Modeling; Monitor; Morbidity - disease rate; mortality; Names; National Institute of Drug Abuse; Natural History; natural language; Natural Language Processing; nonmedical use; novel; novel strategies; Observational Study; Occupations; open source; Opioid; opioid epidemic; Outcome; Overdose; overdose death; Oxycodone; Patient Self-Report; Pattern; Percocet; Periodicity; Pharmaceutical Preparations; Pilot Projects; Plant Roots; Population; Population Characteristics; prescription drug abuse; prescription monitoring program; Process; Public Health; quetiapine; Reporting; Research; Research Infrastructure; Schools; Social Impacts; social media; Source; spelling; study characteristics; Supervision; Surveillance Program; Surveys; System; Target Populations; Techniques; Text; therapy development; Time; TimeLine; Training; United States; Variant; Vicodin; Work
+<ul>
+<li /> National Institute on Drug Abuse (NIDA) of the National Institutes of Health (NIH)
+<li /> Pennsylvania Department of Health
+</ul>
+Disclosure: The published contents are solely the responsibilities of the authors of the publications. 
 
 <!-- ### Icons + Demo Images:
 
