@@ -15,7 +15,9 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-Coming soon [ WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES]
+Under construction. Coming soon [ WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES]
+TLDR:
+We mine social media big data to obtain health insights that may not be available from any other source.
 
 ## Highlights 
 
