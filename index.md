@@ -11,7 +11,7 @@ header:
 excerpt: >
   <font color="white">
   <h2>Research Objectives:</h2>
-   Build <b> portable</b>, <b> customizable </b> and <b> interpretable </b> systems for medical free text processing. <br />
+  Build <font color="#ADDFFF"><b> portable</b></font>, <font color="#ADDFFF"><b> customizable </b></font> and <font color="#ADDFFF"><b> interpretable </b></font> systems for medical free text processing. <br />
   Develop <b>end-to-end solutions</b> for <b>medical</b> and <b>public health</b> problems of high significance. <br />
    <b>Design</b>, <b>implement</b> and <b>deploy</b> innovative <b>natural language processing</b> and <b>machine learning</b> methods. <br />
   Conduct <b> patient/user-centered</b> and <b> population-focused interdisciplinary research</b>.<br />
