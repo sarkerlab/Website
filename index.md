@@ -1,5 +1,5 @@
 ---
-title: We generate actionable <font color="#ADDFFF">medical knowledge</font> from complex <font color="#ADDFFF">free text</font> data through innovations in <font color="#ADDFFF">data science </font> and <font color="#ADDFFF"> natural language processing </font>
+title: Actionable <font color="#ADDFFF">medical knowledge</font> from complex <font color="#ADDFFF">free text</font> data via <font color="#ADDFFF">data science </font> and <font color="#ADDFFF"> natural language processing </font>
 layout: splash
 permalink: /
 header:
