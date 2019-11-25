@@ -13,9 +13,9 @@ excerpt: >
   <h2>Research Objectives:</h2>
   Build <font color="#ADDFFF"><b> portable</b></font>, <font color="#ADDFFF"><b> customizable </b></font> and <font color="#ADDFFF"><b> interpretable </b></font> systems for medical free text processing. <br />
   Develop <font color="#ADDFFF"><b>end-to-end solutions</b></font> for <font color="#ADDFFF"><b>medical</b></font> and <font color="#ADDFFF"><b>public health</b></font> problems of high significance. <br />
-   <b>Design</b></font>, <b>implement</b></font> and <b>deploy</b></font> innovative <b>natural language processing</b></font> and <b>machine learning</b></font> methods. <br />
-  Conduct <b> patient/user-centered</b> and <b> population-focused interdisciplinary research</b>.<br />
-   <b> Create</b> and <b>share</b> easily-to-use text mining, machine learning, natural language processing and artificial intelligence solutions  by <b>medical and public health domain experts. </b> <br /> <br />
+   <font color="#ADDFFF"><b>Design</b></font>, <font color="#ADDFFF"><b>implement</b></font> and <font color="#ADDFFF"><b>deploy</b></font> innovative <font color="#ADDFFF"><b>natural language processing</b></font> and <font color="#ADDFFF"><b>machine learning</b></font> methods. <br />
+  Conduct <font color="#ADDFFF"><b> patient/user-centered</b></font> and <font color="#ADDFFF"><b> population-focused interdisciplinary research</b></font>.<br />
+   <font color="#ADDFFF"><b> Create</b></font> and <font color="#ADDFFF"><b>share</b></font> easily-to-use text mining, machine learning, natural language processing and artificial intelligence solutions by <font color="#ADDFFF"><b>medical and public health domain experts</b></font>. <br /> <br />
   
   NOTICE:  <br />
   We are seeking **PhD Students**, **Research Scientists**, **Data Analysts** and **Research Assistants**. Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health.<br />
