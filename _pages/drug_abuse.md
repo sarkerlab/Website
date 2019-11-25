@@ -1,7 +1,7 @@
 
 ---
-permalink: /about/
-title: "About"
+permalink: /drug_abuse/
+title: "Prescription and Illicit Drug Use and Disorder"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
