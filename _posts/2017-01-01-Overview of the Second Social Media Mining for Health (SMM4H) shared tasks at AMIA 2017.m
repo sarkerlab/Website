@@ -4,7 +4,7 @@ title: "Overview of the Second Social Media Mining for Health (SMM4H) shared tas
 additional_info: "Training"
 external_url: http://ceur-ws.org/Vol-1996/paper8.pdf
 categories:
-  - Social Media
+  - Social Media 
 data:
 code:
 resource:
