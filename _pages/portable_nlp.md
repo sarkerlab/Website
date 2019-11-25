@@ -81,7 +81,7 @@ For even more demo pages check the [posts archive][year-archive].
 
 ## Funding and Disclosures
 
-TBA.... 
+TBA...
 
----
+
 
