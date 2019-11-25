@@ -5,6 +5,5 @@ additional_info: "JAMA Network Open,2019"
 external_url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983
 categories:
   - Social Media
-source:https://healthlanguageprocessing.org/twitter-med-intake/
-code:
+resource: https://healthlanguageprocessing.org/twitter-med-intake/
 ---
