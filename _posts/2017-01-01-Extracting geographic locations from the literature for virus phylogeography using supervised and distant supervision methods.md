@@ -4,7 +4,7 @@ title: "Extracting geographic locations from the literature for virus phylogeogr
 additional_info: "AMIA Summits on Translational Science Proceedings"
 external_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543364/
 categories:
-  - Social Media
+  - Social Media 
 data:
 code:
 resource:
