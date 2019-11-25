@@ -6,7 +6,7 @@ header:
   #overlay_color: "#5e616d"
   overlay_image: /assets/images/chalkboard.jpg
   actions:
-  #  -  label: "<i class='fas fa-download'></i> Install now"
+  #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
   <font color="white">
