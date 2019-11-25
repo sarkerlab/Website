@@ -5,7 +5,7 @@ additional_info: VALUE IN HEALTH 2017.
 external_url: 
 categories:
   - Social Media 
-data:
+data: 
 code:
 resource:
 ---
