@@ -6,6 +6,6 @@ external_url: https://www.aclweb.org/anthology/S17-2105/
 categories:
   - Social Media
 data:
-code:
+code: 
 resource:
 ---
