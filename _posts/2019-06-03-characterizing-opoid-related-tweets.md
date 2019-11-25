@@ -4,7 +4,7 @@ title: "Characterizing opioid-related tweets: a comparison between prescription 
 additional_info: "CLINICAL TOXICOLOGY. 2019"
 external_url:
 categories:
-  - Social Media
+  - Social Media 
 data:
 code: 
 resource:
