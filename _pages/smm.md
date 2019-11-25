@@ -1,5 +1,6 @@
 
 ---
+
 permalink: /smm/
 title: "Social Media Mining"
 excerpt: "flexible two-column Jekyll theme."
@@ -16,7 +17,7 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-... Coming soon (WE ARE GOOD WITH RESEARCH BUT NOT SO GOOD AT MAKING WEBSITES QUICKLY)
+.. Coming soon (WE ARE GOOD WITH RESEARCH BUT NOT SO GOOD AT MAKING WEBSITES QUICKLY)
 
 ## Highlights
 
