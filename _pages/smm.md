@@ -15,7 +15,7 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-Coming soon [WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES]
+Coming soon [ WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES]
 
 ## Highlights 
 
