@@ -4,7 +4,7 @@ title: "Diegolab: An approach for message-level sentiment classification in twit
 additional_info: "Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval 2015)"
 external_url: https://www.aclweb.org/anthology/S15-2085/
 categories:
-  - Social Media
+  - Social Media 
 data:
 code:
 resource:
