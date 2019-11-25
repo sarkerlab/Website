@@ -12,8 +12,8 @@ excerpt: >
   <font color="white">
   <h2>Research Objectives:</h2>
   Build <font color="#ADDFFF"><b> portable</b></font>, <font color="#ADDFFF"><b> customizable </b></font> and <font color="#ADDFFF"><b> interpretable </b></font> systems for medical free text processing. <br />
-  Develop <b>end-to-end solutions</b> for <b>medical</b> and <b>public health</b> problems of high significance. <br />
-   <b>Design</b>, <b>implement</b> and <b>deploy</b> innovative <b>natural language processing</b> and <b>machine learning</b> methods. <br />
+  Develop <font color="#ADDFFF"><b>end-to-end solutions</b></font> for <font color="#ADDFFF"><b>medical</b></font> and <font color="#ADDFFF"><b>public health</b></font> problems of high significance. <br />
+   <b>Design</b></font>, <b>implement</b></font> and <b>deploy</b></font> innovative <b>natural language processing</b></font> and <b>machine learning</b></font> methods. <br />
   Conduct <b> patient/user-centered</b> and <b> population-focused interdisciplinary research</b>.<br />
    <b> Create</b> and <b>share</b> easily-to-use text mining, machine learning, natural language processing and artificial intelligence solutions  by <b>medical and public health domain experts. </b> <br /> <br />
   
