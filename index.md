@@ -1,5 +1,5 @@
 ---
-title: <center> Advancing <font color="#ADDFFF">AI in Medicine</font> through innovative <font color="#ADDFFF"> natural language processing </font> and <font color="#ADDFFF"> data science </font> methods </center>
+title: <center>Advancing <font color="#ADDFFF">AI in Medicine</font> through innovative <font color="#ADDFFF"> natural language processing </font> and <font color="#ADDFFF"> data science </font> methods </center>
 layout: splash
 permalink: /
 header:
