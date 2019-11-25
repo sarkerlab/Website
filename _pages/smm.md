@@ -15,12 +15,7 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-According to the World Health Organization, <i>toxicovigilance</i> is the active process of identifying and evaluating the toxic risks existing in a community, and evaluating the measures taken to reduce or eliminate them. Our toxicovigilance research focuses on prescription and illicit drug use/misuse and drug use disorder.
-
-Currently, our work is primarily funded by the National Institute on Drug Abuse (NIDA) of the National Institutes of Health (NIH). This project primarily focuses on characterizing prescription drug misuse/abuse/nonmedical use by mining social media big data. We are (i) building close to real-time monitoring systems so that we can forecast potential future crises, (ii) developing methods to characterize prescription drugs based on their reported abuse/misuse, (iii) studying potential long-term impacts of drug use disorder and the natural history of addiction, and (iv) empowering toxicologists with information mined from social media so that they can take the necessary steps to help people suffering from opioid use disorder. 
-
-NIH-specific information about the project can be found <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9732480&icde=47585724"> HERE </a>.
-We also received a small amount of funding (for annotation) and data from the <a href="https://centerfordigitalhealth.upenn.edu/pa-cure-twitter-study"> PA CURE </a> project. 
+Coming soon [WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES]
 
 ## Highlights 
 
