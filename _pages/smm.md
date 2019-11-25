@@ -34,9 +34,15 @@ Our <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/oc
 Our <a href="https://preprints.jmir.org/preprint/15861"> JMIR paper </a> provides a detailed description of the importance of thorough annotation guidelines. The paper also contains publicly available data, the annotation guidleine and other resources.
 
 
-## NIH Abstract
+## Projects and Studies
+<ul>
+<li /> Social media mining for Toxicovigilance (NIH)
+<li /> Studing user perceptions of Medicaid services from Twitter (RWJF; OHSU) 
+<li /> Chronic stress and social media (Emory; TBA)
+<li /> Cancer and social media (Emory; TBA)
+<li /> Mental health and social media (Emory; TBA)
 
-The problem of prescription medication (PM) abuse has reached epidemic proportions in the United States. According to a 2014 report by the Director of the National Institute on Drug Abuse (NIDA), an estimated 52 million people, have been involved in the non-medical use of PMs— a significant portion of which can be classified as abuse. PMs that are commonly abused include opioids, central nervous system depressants and stimulants, and the consequences of their abuse may be severe. Increases in PM misuse and abuse over the last 15 years have resulted in increased emergency department visits, rates of addiction and overdose deaths. Due to the rapidly escalating morbidity and mortality, it is now receiving national attention. The opioid crisis, which has its root in opioid-based PM abuse, has been declared a national emergency by the president of the United States. Despite the problems associated with PM abuse, surveillance programs such as prescription drug monitoring programs (PDMPs) are inadequate and suffer from numerous shortcomings, thus limiting their usefulness in real life. Studies evaluating the long-term effects of distinct classes of PMs on cohorts of abusers are scarce and expensive to conduct. To better characterize the problem and to monitor it in real-time, new sources of information need to be identified and novel monitoring techniques need to be developed. To address these problems, our project aims to utilize social media data for performing toxicovigilance. Social media encapsulates an abundance of knowledge about PM abuse and the abusers in the form of noisy natural language text. At the heart of the proposed approach is a machine learning system that can automatically distinguish between abuse and non-abuse indicating user posts collected from social media. Using this classification system, users will be categorized into multiple groups—(i) abusers, (ii) medical users and (iii) non users. The developed system will collect longitudinal data for users exposed the selected PMs via periodic collection of their publicly available posts/discussions and automatically categorize them based on age, gender and additional demographic feature, when possible. This will enable the conducting of observational studies on targeted cohorts, involving hundreds of thousands of cohort members. The cohort studies will focus on analyzing the transition rates from medical use to abuse for distinct PMs and transition rates from abuse of PMs to illicit analogs. Implementation of this data-centric framework, which will be open source, will revolutionize the mechanism by which PM abuse monitoring is performed and enable the future development of intervention strategies targeted towards specific cohorts, at the most effective time periods.
+</ul>
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
@@ -49,9 +55,9 @@ The problem of prescription medication (PM) abuse has reached epidemic proportio
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese. -->
 
-## Public Health Relevance Statement
+## Planned tasks
 
-Prescription Medication (PM) abuse is a major epidemic in the United States, and monitoring and studying the characteristics of the PM abuse problem requires the development of novel approaches. Social media encapsulates an abundance of data about PM abuse from different demographics, but extracting that data and converting it to knowledge requires advanced natural language processing and data-centric artificial intelligence systems. Our proposed social media mining framework will automate the process of big data to knowledge conversion for PM abuse, providing crucial insights to toxicologists about targeted populations and enabling the future development of directed intervention strategies.
+Coming soon...
 
 <!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -74,12 +80,7 @@ For even more demo pages check the [posts archive][year-archive].
 
 ## Funding and Disclosures
 
-<ul>
-<li /> National Institute on Drug Abuse (NIDA) of the National Institutes of Health (NIH)
-<li /> Pennsylvania Department of Health
-</ul>
-Disclosure: The published contents are solely the responsibilities of the authors of the publications. 
-
+TBA
 <!-- ### Icons + Demo Images:
 
 - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
