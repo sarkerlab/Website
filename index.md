@@ -50,7 +50,7 @@ feature_row:
     alt: "100% free"
     title: "Public Research Resources"
     excerpt: "We strongly believe in community-driven and reproducible research. Therefore, we commited to create health text mining resources, data and software, and releasing them publicly to the research community. "
-    url: "https://sarkerlab.org/smm/"
+    url: "https://sarkerlab.org/resources/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
