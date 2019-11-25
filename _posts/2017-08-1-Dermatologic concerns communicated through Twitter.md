@@ -5,7 +5,7 @@ additional_info: "International journal of dermatology"
 external_url:https://onlinelibrary.wiley.com/doi/full/10.1111/ijd.13506
 categories:
   - Social Media
-data:
+data: 
 code:
 resource:
 ---
