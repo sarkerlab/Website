@@ -7,5 +7,5 @@ categories:
   - Social Media
 data: 
 code:
-resource:
+resource: 
 ---
