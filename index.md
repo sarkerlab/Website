@@ -1,5 +1,5 @@
 ---
-title: <font color="#ADDFFF">Medical knowledge</font> from complex <font color="#ADDFFF">free text</font> data using <font color="#ADDFFF">data science </font> and <font color="#ADDFFF"> natural language processing </font>
+title: Advancing <font color="#ADDFFF">AI in Medicine</font> through innovations in <font color="#ADDFFF">natural language processing </font> and <font color="#ADDFFF">data science </font> methods.
 layout: splash
 permalink: /
 header:
