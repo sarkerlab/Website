@@ -22,7 +22,7 @@ Currently, our work is primarily funded by the National Institute on Drug Abuse 
 NIH-specific information about the project can be found <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9732480&icde=47585724"> HERE </a>.
 We also received a small amount of funding (for annotation) and data from the <a href="https://centerfordigitalhealth.upenn.edu/pa-cure-twitter-study"> PA CURE </a> project. 
 
-## Highlights
+## Highlights 
 
 Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
 
