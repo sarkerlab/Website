@@ -6,6 +6,6 @@ external_url:
 categories:
   - Social Media
 data:
-code:
+code: 
 resource:
 ---
