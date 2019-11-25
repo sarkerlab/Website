@@ -17,7 +17,7 @@ last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
 Under construction. 
-Coming soon [ WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES] <br />
+Coming soon [ WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES] 
 TLDR:
 We develop NLP methods that are portable (i.e., can be applied to many differet problems), interpretable and customizable. 
 
