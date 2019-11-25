@@ -36,7 +36,7 @@ feature_row:
     alt: "customizable"
     title: "Portable Natural Language Processing"
     excerpt: "We are continuously developing BioNLP software that are portable across medical domain problems, and don't <b>live and die</b> with narrow-scope medical studies. We  implement methods for text classification, information detection and extraction, text representation and normalization, topic analyses and visualization."
-    url: ""
+    url: "https://sarkerlab.org/portable_systems/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - #image_path: /assets/images/mm-responsive-feature.png
