@@ -4,7 +4,7 @@ title: "Mining Adverse Events In Twitter : Experiences of Adalimumab Users"
 additional_info: VALUE IN HEALTH 2017.
 external_url: 
 categories:
-  - Social Media 
+  - Social Media  
 data: 
 code:
 resource:
