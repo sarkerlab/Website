@@ -19,7 +19,7 @@ Under construction. Coming soon [ WE ARE BETTER AT RESEARCH THAN AT UPDATING WEB
 TLDR:
 We mine social media big data to obtain health insights that may not be available from any other source.
 
-## Highlights 
+## Highlights
 
 Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
 
