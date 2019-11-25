@@ -1,4 +1,3 @@
-
 ---
 permalink: /resources/
 title: "Resources"
@@ -19,7 +18,7 @@ toc: true
 Under construction. <br />
 TLDR: <br />
 
-We try to create public resources for the research community. 
+We try to create public resources for the research community...
 
 ## Highlights
 
