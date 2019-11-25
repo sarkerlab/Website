@@ -1,7 +1,6 @@
-
 ---
-permalink: /portable_nlp/
-title: "Portable Systems"
+permalink: /portablenlp/
+title: "Portable NLP "
 excerpt: "flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -17,13 +16,11 @@ last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
 Under construction. 
-Coming soon [ WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES] 
-TLDR:
-We develop NLP methods that are portable (i.e., can be applied to many differet problems), interpretable and customizable. 
+TLDR: <br />
+We try to build NLP tools that can be reused for many tasks.
 
 ## Highlights
 
-... TO BE UPDATED SOON..
 Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
 
 Our work was featured on <a href = "http://www.emoryhealthsciblog.com/opioids-crunching-the-tweets/"> The Emory Health Science Blog </a>. <br />
@@ -37,15 +34,9 @@ Our <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/oc
 Our <a href="https://preprints.jmir.org/preprint/15861"> JMIR paper </a> provides a detailed description of the importance of thorough annotation guidelines. The paper also contains publicly available data, the annotation guidleine and other resources.
 
 
-## Projects and Studies
-<ul>
-<li /> Social media mining for Toxicovigilance (NIH)
-<li /> Studing user perceptions of Medicaid services from Twitter (RWJF; OHSU) 
-<li /> Chronic stress and social media (Emory; TBA)
-<li /> Cancer and social media (Emory; TBA)
-<li /> Mental health and social media (Emory; TBA)
+## Ongoing Studies
 
-</ul>
+Coming soon....
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
@@ -58,9 +49,9 @@ Our <a href="https://preprints.jmir.org/preprint/15861"> JMIR paper </a> provide
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese. -->
 
-## Planned Tasks
+## Past Works
 
-Coming soon...
+coming soon...
 
 <!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -78,11 +69,32 @@ For even more demo pages check the [posts archive][year-archive].
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }} -->
+
 ---
 
 ## Funding and Disclosures
 
-TBA...
+TBA..
+
+
+<!-- ### Icons + Demo Images:
+
+- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
+- [Font Awesome](http://fontawesome.io/)
+- [Unsplash](https://unsplash.com/)
+
+### Other:
+
+- [Jekyll](https://jekyllrb.com/)
+- [jQuery](https://jquery.com/)
+- [Susy](http://susy.oddbird.net/)
+- [Breakpoint](http://breakpoint-sass.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
+- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
+- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+- [Lunr](http://lunrjs.com)
 
 ---
 
+Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York. -->
