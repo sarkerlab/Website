@@ -20,14 +20,22 @@ According to the World Health Organization, <i>toxicovigilance</i> is the active
 Currently, our work is primarily funded by the National Institute on Drug Abuse (NIDA) of the National Institutes of Health (NIH). This project primarily focuses on characterizing prescription drug misuse/abuse/nonmedical use by mining social media big data. We are (i) building close to real-time monitoring systems so that we can forecast potential future crises, (ii) developing methods to characterize prescription drugs based on their reported abuse/misuse, (iii) studying potential long-term impacts of drug use disorder and the natural history of addiction, and (iv) empowering toxicologists with information mined from social media so that they can take the necessary steps to help people suffering from opioid use disorder. 
 
 NIH-specific information about the project can be found <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9732480&icde=47585724"> HERE </a>.
+We also received a small amount of funding (for annotation) and data from the <a href="https://centerfordigitalhealth.upenn.edu/pa-cure-twitter-study"> PA CURE </a> project. 
 
 ## Highlights
+
+Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism. <br />
+
+Our work was featured on <a href = "http://www.emoryhealthsciblog.com/opioids-crunching-the-tweets/"> The Emory Health Science Blog </a> <br />
 
 Our <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983"> paper on JAMA Network Open</a> shows that we can potentially combine publicly available Twitter data, geospatial information, temporal information, natural language processing and applied machine learning to predict the status of the opioid crisis at a specific place (county and substate) within the U.S.A. <br />
 
 Our <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6774610/"> MedInfo-2019 paper </a> discusses effective data collection strategies for opioids from Twitter using NLP methods to generate common misspellings and supervised machine learning for filtering out noise. <br />
 
 Our <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocz162/5581276"> JAMIA paper </a> reviews the literature on social media mining for prescription medication use/misuse. We propose a simple data-centric framework that is suitable for social media data. The particularly important aspect is filtering irrelevant information via the use of supervised classification. <br />
+
+Our <a href="https://preprints.jmir.org/preprint/15861"> JMIR paper </a> provides a detailed description of the importance of thorough annotation guidelines. The paper also contains publicly available data, the annotation guidleine and other resources.
+
 
 ## NIH Abstract
 
@@ -46,7 +54,7 @@ The problem of prescription medication (PM) abuse has reached epidemic proportio
 
 ## Public Health Relevance Statement
 
-Narrative Prescription Medication (PM) abuse is a major epidemic in the United States, and monitoring and studying the characteristics of the PM abuse problem requires the development of novel approaches. Social media encapsulates an abundance of data about PM abuse from different demographics, but extracting that data and converting it to knowledge requires advanced natural language processing and data-centric artificial intelligence systems. Our proposed social media mining framework will automate the process of big data to knowledge conversion for PM abuse, providing crucial insights to toxicologists about targeted populations and enabling the future development of directed intervention strategies.
+Prescription Medication (PM) abuse is a major epidemic in the United States, and monitoring and studying the characteristics of the PM abuse problem requires the development of novel approaches. Social media encapsulates an abundance of data about PM abuse from different demographics, but extracting that data and converting it to knowledge requires advanced natural language processing and data-centric artificial intelligence systems. Our proposed social media mining framework will automate the process of big data to knowledge conversion for PM abuse, providing crucial insights to toxicologists about targeted populations and enabling the future development of directed intervention strategies.
 
 <!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
