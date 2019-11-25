@@ -5,7 +5,7 @@ additional_info: "Journal of biomedical informatics 2016"
 external_url: https://www.sciencedirect.com/science/article/pii/S1532046416300508
 categories:
   - Social Media
-data:
+data: 
 code:
 resource:
 ---
