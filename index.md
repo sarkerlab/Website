@@ -43,7 +43,7 @@ feature_row:
     alt: "fully responsive"
     title: "Social Media Mining"
     excerpt: "Social networks contain abundant information on every topic. Adoption of social media is now at an all-time high, and the number of people using social media continues to grow. We are innovating strategies for curating and utilizing social media data for medical and public health tasks. We are also continuously exploring new uses for social media data."
-    url: ""
+    url: "https://sarkerlab.org/people/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - #image_path: /assets/images/mm-free-feature.png
