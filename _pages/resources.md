@@ -25,7 +25,7 @@ Coming..
 
 ## Ongoing Studies
 
-Coming soon...
+Coming soon..
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
