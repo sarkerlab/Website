@@ -5,7 +5,7 @@ additional_info: "Proceedings of the 2018 International Conference on Digital He
 external_url: https://dl.acm.org/citation.cfm?id=3194679
 categories:
   - Social Media 
-data:
+data: 
 code:
 resource:
 ---
