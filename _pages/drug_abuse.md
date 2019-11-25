@@ -26,7 +26,7 @@ We also received a small amount of funding (for annotation) and data from the <a
 
 Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
 
-Our work was featured on <a href = "http://www.emoryhealthsciblog.com/opioids-crunching-the-tweets/"> The Emory Health Science Blog </a> <br />
+Our work was featured on <a href = "http://www.emoryhealthsciblog.com/opioids-crunching-the-tweets/"> The Emory Health Science Blog </a>. <br />
 
 Our <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983"> paper on JAMA Network Open</a> shows that we can potentially combine publicly available Twitter data, geospatial information, temporal information, natural language processing and applied machine learning to predict the status of the opioid crisis at a specific place (county and substate) within the U.S.A. <br />
 
