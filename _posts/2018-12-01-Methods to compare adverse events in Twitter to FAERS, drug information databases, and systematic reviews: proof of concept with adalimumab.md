@@ -4,7 +4,7 @@ title: "Methods to compare adverse events in Twitter to FAERS, drug information 
 additional_info: "Drug safety,2018"
 external_url: https://link.springer.com/article/10.1007/s40264-018-0707-6
 categories:
-  - Social Media 
+  - Social Media
 data:
 code:
 resource:
