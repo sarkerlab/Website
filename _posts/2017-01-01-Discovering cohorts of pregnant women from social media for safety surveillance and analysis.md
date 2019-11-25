@@ -6,6 +6,6 @@ external_url: https://www.jmir.org/2017/10/e361
 categories:
   - Social Media 
 data:
-code:
+code: 
 resource:
 ---
