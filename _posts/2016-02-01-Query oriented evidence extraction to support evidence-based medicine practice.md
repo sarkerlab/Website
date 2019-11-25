@@ -4,7 +4,7 @@ title: "Query oriented evidence extraction to support evidence-based medicine pr
 additional_info: "Journal of Biomedical Informatics 016"
 external_url: https://www.sciencedirect.com/science/article/pii/S1532046415002786
 categories:
-  - Social Media 
+  - Social Media  
 data: 
 code:
 resource:
