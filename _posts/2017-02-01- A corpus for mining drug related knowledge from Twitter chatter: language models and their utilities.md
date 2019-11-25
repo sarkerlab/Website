@@ -6,7 +6,7 @@ external_url: https://www.sciencedirect.com/science/article/pii/S235234091630716
 categories:
   - Social Media
 data:
-code:
+code: 
 resource:
 ---
 
