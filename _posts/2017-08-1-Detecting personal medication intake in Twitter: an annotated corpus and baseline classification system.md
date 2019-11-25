@@ -4,7 +4,7 @@ title: "Detecting personal medication intake in Twitter: an annotated corpus and
 additional_info: "BioNLP 2017"
 external_url: https://www.aclweb.org/anthology/W17-2316/
 categories:
-  - Social Media
+  - Social Media 
 data:
 code:
 resource:
