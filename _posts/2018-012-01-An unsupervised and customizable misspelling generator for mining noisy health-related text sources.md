@@ -4,7 +4,7 @@ title: "An unsupervised and customizable misspelling generator for mining noisy 
 additional_info: "Journal of biomedical informatics,2018"
 external_url:https://www.sciencedirect.com/science/article/pii/S1532046418302168
 categories:
-  - Social Media
+  - Social Media 
 data:
 code:
 resource:
