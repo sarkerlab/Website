@@ -21,18 +21,7 @@ We try to create public resources for the research community...
 
 ## Highlights
 
-Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
-
-Our work was featured on <a href = "http://www.emoryhealthsciblog.com/opioids-crunching-the-tweets/"> The Emory Health Science Blog </a>. <br />
-
-Our <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983"> paper on JAMA Network Open</a> shows that we can potentially combine publicly available Twitter data, geospatial information, temporal information, natural language processing and applied machine learning to predict the status of the opioid crisis at a specific place (county and substate) within the U.S.A. <br />
-
-Our <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6774610/"> MedInfo-2019 paper </a> discusses effective data collection strategies for opioids from Twitter using NLP methods to generate common misspellings and supervised machine learning for filtering out noise. <br />
-
-Our <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocz162/5581276"> JAMIA paper </a> reviews the literature on social media mining for prescription medication use/misuse. We propose a simple data-centric framework that is suitable for social media data. The particularly important aspect is filtering irrelevant information via the use of supervised classification. <br />
-
-Our <a href="https://preprints.jmir.org/preprint/15861"> JMIR paper </a> provides a detailed description of the importance of thorough annotation guidelines. The paper also contains publicly available data, the annotation guidleine and other resources.
-
+Coming..
 
 ## Ongoing Studies
 
