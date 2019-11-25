@@ -4,7 +4,7 @@ title: "Social media mining for toxicovigilance: automatic monitoring of prescri
 additional_info: "Drug safety 2016"
 external_url: https://link.springer.com/article/10.1007/s40264-015-0379-4
 categories:
-  - Social Media
+  - Social Media 
 data:
 code:
 resource:
