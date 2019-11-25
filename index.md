@@ -28,7 +28,7 @@ feature_row:
   - #image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Toxicovigilance"
-    excerpt: "Despite the ongoing opioid crisis, current strategies for close-to-real-time monitoring and characterizing drug-related health problems are <i>laggy</i>. <b>We are building methods and tools that leverage data from sources such as social media and electronic health records to generate statistics in close to real time, predict potential future problems, and empower domain experts (e.g., toxicologists and public health professionals) who are fighting the crisis </b>."
+    excerpt: "Despite the ongoing opioid crisis, current strategies for close-to-real-time monitoring and characterizing drug-related health problems are <i>laggy</i>. <b>We are building methods and tools that leverage data from sources such as social media and electronic health records to generate statistics in close to real time, predict potential future problems, and empower domain experts (<i>e.g.</i>, toxicologists and public health professionals) who are fighting the crisis </b>."
     url: "https://sarkerlab.org/toxicovigilance/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
