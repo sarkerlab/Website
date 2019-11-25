@@ -1,5 +1,5 @@
 ---
-title: <font color="#ADDFFF">Medical knowledge</font> from complex <font color="#ADDFFF">free text</font> data via <font color="#ADDFFF">data science </font> and <font color="#ADDFFF"> natural language processing </font>
+title: <font color="#ADDFFF">Medical knowledge</font> from complex <font color="#ADDFFF">free text</font> data using <font color="#ADDFFF">data science </font> and <font color="#ADDFFF"> natural language processing </font>
 layout: splash
 permalink: /
 header:
