@@ -1,6 +1,6 @@
 ---
-permalink: /drug_abuse/
-title: "Drug Abuse"
+permalink: /toxicovigilance/
+title: "Toxicovigilance"
 excerpt: "flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
