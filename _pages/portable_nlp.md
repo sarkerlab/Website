@@ -22,6 +22,7 @@ We develop NLP methods that are portable (i.e., can be applied to many differet 
 
 ## Highlights
 
+... TO BE UPDATED SOON...
 Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
 
 Our work was featured on <a href = "http://www.emoryhealthsciblog.com/opioids-crunching-the-tweets/"> The Emory Health Science Blog </a>. <br />
