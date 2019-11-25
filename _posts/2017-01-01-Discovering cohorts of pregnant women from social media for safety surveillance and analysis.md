@@ -4,7 +4,7 @@ title: "Discovering cohorts of pregnant women from social media for safety surve
 additional_info: "Journal of medical Internet research 2017"
 external_url: https://www.jmir.org/2017/10/e361
 categories:
-  - Social Media  
+  - Social Media
 data:
 code: 
 resource:
