@@ -37,7 +37,7 @@ Our <a href="https://preprints.jmir.org/preprint/15861"> JMIR paper </a> provide
 
 ## Ongoing Studies
 
-Coming soon....
+Coming soon...
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
