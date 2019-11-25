@@ -4,7 +4,7 @@ title: "Capturing the patient’s perspective: a review of advances in natural l
 additional_info: "arXiv preprint 2016"
 external_url: https://arxiv.org/abs/1610.02567
 categories:
-  - Social Media
+  - Social Media 
 data:
 code:
 resource:
