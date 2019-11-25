@@ -5,7 +5,7 @@ additional_info: "arXiv preprint 2018"
 external_url: https://arxiv.org/ftp/arxiv/papers/1810/1810.09506.pdf
 categories:
   - Social Media
-data:
+data: 
 code:
 resource:
 ---
