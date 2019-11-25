@@ -5,7 +5,7 @@ additional_info: "Proceedings of the 11th International Workshop on Semantic Eva
 external_url: https://www.aclweb.org/anthology/S17-2105/
 categories:
   - Social Media
-data:
+data: 
 code: 
 resource:
 ---
