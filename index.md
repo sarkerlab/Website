@@ -15,7 +15,7 @@ excerpt: >
   Develop <b>end-to-end solutions</b> for <b>medical</b> and <b>public health</b> problems of high significance. <br />
    <b>Design</b>, <b>implement</b> and <b>deploy</b> innovative <b>natural language processing</b> and <b>machine learning</b> methods. <br />
   Conduct <b> patient/user-centered</b> and <b> population-focused interdisciplinary research</b>.<br />
-   <b> Create</b> and <b>share</b> easily-to-use text mining, machine learning, natural language processing and artificial intelligence solutions  by <b>medical and public health domain experts.</b> <br /> <br />
+   <b> Create</b> and <b>share</b> easily-to-use text mining, machine learning, natural language processing and artificial intelligence solutions  by <b>medical and public health domain experts. </b> <br /> <br />
   
   NOTICE:  <br />
   We are seeking **PhD Students**, **Research Scientists**, **Data Analysts** and **Research Assistants**. Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health.<br />
