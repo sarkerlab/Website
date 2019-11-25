@@ -6,6 +6,6 @@ external_url: https://www.worldscientific.com/doi/abs/10.1142/9789813235533_0051
 categories:
   - Social Media
 data:
-code:
+code: 
 resource:
 ---
