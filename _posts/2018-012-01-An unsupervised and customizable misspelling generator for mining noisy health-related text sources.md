@@ -6,6 +6,6 @@ external_url: https://www.sciencedirect.com/science/article/pii/S153204641830216
 categories:
   - Social Media 
 data:
-code:
+code: 
 resource:
 ---
