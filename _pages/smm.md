@@ -1,6 +1,6 @@
 ---
 permalink: /smm/
-title: "Social Media Mining"
+title: "Mining Social Media"
 excerpt: "flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
