@@ -4,7 +4,7 @@ title: "Data and systems for medication-related text classification and concept 
 additional_info: "Journal of the American Medical Informatics Association"
 external_url: https://academic.oup.com/jamia/article/25/10/1274/5113021
 categories:
-  - Social Media
+  - Social Media  
 data:
 code:
 resource:
