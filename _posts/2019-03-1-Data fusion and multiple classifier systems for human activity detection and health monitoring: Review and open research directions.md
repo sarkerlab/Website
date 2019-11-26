@@ -6,5 +6,5 @@ external_url: https://www.sciencedirect.com/science/article/pii/S156625351830413
 categories:
 data:
 code:
-resource: 
+resource:   
 ---
