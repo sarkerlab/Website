@@ -5,7 +5,7 @@ Authors"
 additional_info: "Physica A: Statistical Mechanics and its Applications,2017"
 external_url: https://www.sciencedirect.com/science/article/pii/S0378437116308068
 categories:
-  - Social Media
+  - Social Media 
 data:
 code:
 resource:
