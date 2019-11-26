@@ -34,7 +34,7 @@ team:
     title: "Botao Li"
     excerpt: "Graduate Research Student"
     linkedin: https://www.linkedin.com/in/botao-li/
-  - image_path: /assets/images/man.png
+  - image_path: /assets/images/demi.png
     title: "Demi Majekodunmi"
     excerpt: "Undergraduate Research Assistant"
     linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
