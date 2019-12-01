@@ -53,13 +53,6 @@ feature_row:
     url: "https://sarkerlab.org/pcnlp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-  - #image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Social Media Mining"
-    excerpt: "Social networks contain abundant information on every topic. Adoption of social media is now at an all-time high, and the number of people using social media continues to grow. We are innovating strategies for curating and utilizing social media data for medical and public health tasks. We are also continuously exploring new uses for social media data."
-    url: "https://sarkerlab.org/smm/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 ---
 
 <h1>Focus Areas</h1>
