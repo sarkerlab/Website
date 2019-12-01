@@ -49,7 +49,7 @@ feature_row:
   - #image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "Patient-centered NLP"
-    excerpt: "We are striving to answer the question: What is patient-centeredness from the perspective of NLP? Our patient-centered NLP research focuses on enabling NLP-driven evidence-based medicine."
+    excerpt: "We are striving to answer the question: What is patient-centeredness from the perspective of NLP? Our patient-centered NLP research focuses on enabling NLP-driven evidence-based medicine practice."
     url: "https://sarkerlab.org/pcnlp/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
