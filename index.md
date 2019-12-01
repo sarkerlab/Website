@@ -48,11 +48,18 @@ feature_row:
     btn_label: "Learn more"
   - #image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "Public Research Resources"
-    excerpt: "We strongly believe in community-driven and reproducible research. Therefore, we commited to create health text mining resources, data and software, and releasing them publicly to the research community."
-    url: "https://sarkerlab.org/resources/"
+    title: "Patient-centered NLP"
+    excerpt: "We are striving to answer the question: What is patient-centeredness from the perspective of NLP?"
+    url: "https://sarkerlab.org/pcnlp/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"  
+    - #image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Social Media Mining"
+    excerpt: "Social networks contain abundant information on every topic. Adoption of social media is now at an all-time high, and the number of people using social media continues to grow. We are innovating strategies for curating and utilizing social media data for medical and public health tasks. We are also continuously exploring new uses for social media data."
+    url: "https://sarkerlab.org/smm/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 <h1>Focus Areas</h1>
