@@ -15,11 +15,9 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-Under construction. <br />
+UNDER CONSTRUCTION <br />
 TLDR: <br />
-
-We try to build NLP tools that can be reused for many tasks.
-
+We are trying to define patient-centered NLP.
 ## Highlights
 
 Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
