@@ -5,5 +5,5 @@ additional_info: "Journal of the American Medical Informatics Association. 26 (6
 external_url: https://academic.oup.com/jamia/article/26/6/577/5445903
 data:
 code:
-resource: https://academic.oup.com/view-large/136370636
+resource: 
 ---
