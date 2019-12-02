@@ -10,7 +10,7 @@ team:
   - image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
-    interest: "Natural language processing."
+    interest: "Natural language processing"
     twitter: https://twitter.com/sarkerabeed
     site: https://abeedsarker.com
     pubs: https://www.researchgate.net/profile/Abeed_Sarker
