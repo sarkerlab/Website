@@ -42,6 +42,20 @@
             </div>
           {% endif %}
 
+          {% if f.interests %}
+            <div class="interest_expertise" style="font-size: 13px;">
+              <b>Interest: </b>{{ f.interests | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.expertise %}
+            <div class="interest_expertise" style="font-size: 13px;">
+              <b>Expertise: </b>{{ f.expertise | markdownify }}
+            </div>
+             <br>
+          {% endif %}
+
+
           <div style= "margin-bottom: 35px;">
             {% if f.linkedin %}
               <a href="{{f.linkedin}}" style= "color:rgb(0, 115, 176); margin-right: 10px;" alt="Linkedin"> <i class="fab fa-linkedin fa-2x" title="Linkedin"></i></a>

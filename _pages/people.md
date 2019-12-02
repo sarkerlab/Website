@@ -43,6 +43,8 @@ team:
     excerpt: "Project Manager/Software Engineer"
   - image_path: /assets/images/coreyshaw.jpg
     title: "Corey Shaw"
+    interests: "Traveling, Sports, Startups, VR"
+    expertise: HTML, CSS, Swift, JS
     excerpt: "Software Engineer"
     email: mailto:coreyrshaw@gmail.com
     linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
@@ -76,7 +78,7 @@ collaborators:
     title: "Haitao Cai"
     excerpt: "University of Pennsylvania"
     site: https://healthlanguageprocessing.org/
-  
+
 
 alumni:
 - image_path: /assets/images/Annika.jpg
