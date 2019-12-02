@@ -6,6 +6,6 @@ external_url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/27539
 categories:
   - Social Media
 data:
-code:
-resource: https://healthlanguageprocessing.org/twitter-med-intake/
+code: https://bitbucket.org/asarker/jama_open_opioid_pa/
+resource: 
 ---
