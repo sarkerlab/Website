@@ -10,7 +10,7 @@ team:
   - image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
-    interests: "Programming, sports, music, big data"
+    interests: "Programming, sports, music, literature, big data"
     expertise: Natural language processing; applied machine learning; social media mining; evidence-based medicine; patient-centered data science
     twitter: https://twitter.com/sarkerabeed
     site: https://abeedsarker.com
