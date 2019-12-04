@@ -11,7 +11,7 @@ team:
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
     interests: "Programming, sports, music, literature, big data"
-    expertise: Natural language processing; applied machine learning; social media mining; evidence-based medicine; patient-centered data science
+    expertise: Natural language processing; applied machine learning; social media mining; patient-centered data science
     twitter: https://twitter.com/sarkerabeed
     site: https://abeedsarker.com
     pubs: https://www.researchgate.net/profile/Abeed_Sarker
