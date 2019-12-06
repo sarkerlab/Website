@@ -1,7 +1,7 @@
 ---
 authors: "Abeed Sarker, Maksim Belousov, Jasper Friedrichs, Kai Hakala, Svetlana Kiritchenko, Farrokh Mehryary, Sifei Han, Tung Tran, Anthony Rios, Ramakanth Kavuluru, Berry de Bruijn, Filip Ginter, Debanjan Mahata, Saif M Mohammad, Goran Nenadic, Graciela Gonzalez-Hernandez"
 title: "Data and systems for medication-related text classification and concept normalization from Twitter: insights from the Social Media Mining for Health (SMM4H)-2017 shared task Authors."
-additional_info: "Journal of the American Medical Informatics Association. 2018"
+additional_info: "Journal of the American Medical Informatics Association 25, no. 10 (2018): 1274-1283."
 external_url: https://academic.oup.com/jamia/article/25/10/1274/5113021
 categories:
   - Social Media
