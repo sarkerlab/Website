@@ -15,27 +15,14 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-UNDER CONSTRUCTION <br />
-TLDR: <br />
-We are trying to define patient-centered NLP.
+
+We are trying to define the concept of Patient-oriented NLP so that NLP can play a bigger role in evidence-based medicine practice.
+
 ## Highlights
-
-Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
-
-Our work was featured on <a href = "http://www.emoryhealthsciblog.com/opioids-crunching-the-tweets/"> The Emory Health Science Blog </a>. <br />
-
-Our <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983"> paper on JAMA Network Open</a> shows that we can potentially combine publicly available Twitter data, geospatial information, temporal information, natural language processing and applied machine learning to predict the status of the opioid crisis at a specific place (county and substate) within the U.S.A. <br />
-
-Our <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6774610/"> MedInfo-2019 paper </a> discusses effective data collection strategies for opioids from Twitter using NLP methods to generate common misspellings and supervised machine learning for filtering out noise. <br />
-
-Our <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocz162/5581276"> JAMIA paper </a> reviews the literature on social media mining for prescription medication use/misuse. We propose a simple data-centric framework that is suitable for social media data. The particularly important aspect is filtering irrelevant information via the use of supervised classification. <br />
-
-Our <a href="https://preprints.jmir.org/preprint/15861"> JMIR paper </a> provides a detailed description of the importance of thorough annotation guidelines. The paper also contains publicly available data, the annotation guidleine and other resources.
-
+More details will be added in the near future...
 
 ## Ongoing Studies
-
-Coming soon....
+Coming soon...
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
@@ -48,9 +35,7 @@ Coming soon....
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese. -->
 
-## Past Works
 
-coming soon...
 
 <!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -71,9 +56,7 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-## Funding and Disclosures
 
-TBA...
 
 
 <!-- ### Icons + Demo Images:
@@ -82,7 +65,7 @@ TBA...
 - [Font Awesome](http://fontawesome.io/)
 - [Unsplash](https://unsplash.com/)
 
-### Other:
+
 
 - [Jekyll](https://jekyllrb.com/)
 - [jQuery](https://jquery.com/)
