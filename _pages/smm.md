@@ -40,7 +40,7 @@ We are working, in collaboration with the Oregon Health & Science University and
 
 ## Other Ongoing Studies
 <ul>
-<li /> Social media mining for Toxicovigilance (NIH)
+<li /> Social media mining for Toxicovigilance (NIH/NIDA)
 <li /> Studing user perceptions of Medicaid services from Twitter (RWJF; OHSU) 
 <li /> Chronic stress and social media (Emory; TBA)
 <li /> Chronic disease communications and social media (Emory; TBA)
