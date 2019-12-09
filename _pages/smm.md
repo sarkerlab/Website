@@ -59,9 +59,6 @@ We are working, in collaboration with the Oregon Health & Science University and
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese. -->
 
-## Planned tasks
-
-Coming soon...
 
 <!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -81,7 +78,5 @@ For even more demo pages check the [posts archive][year-archive].
 [year-archive]: {{ "/year-archive/" | relative_url }} -->
 ---
 
-## Funding and Disclosures
 
-..TBA..
 ---
