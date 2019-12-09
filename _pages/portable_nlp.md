@@ -18,7 +18,7 @@ toc: true
 We are building clinical NLP systems that are generalizable, customizable and portable. We want to empower medical practitioners with the support of NLP and so our goal is to build systems that the practitioners can use easily and for many different types of research problems.
 
 ## Updates
-We will be posting updates of our work (along with descriptions of past work) soon...
+We will be posting updates of our work (along with descriptions of past work) soon..
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
