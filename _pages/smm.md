@@ -15,31 +15,35 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-Under construction. Coming soon [ WE ARE BETTER AT RESEARCH THAN AT UPDATING WEBSITES]
-TLDR:
-We mine social media big data to obtain health insights that may not be available from any other source.
+Social media is a source of massive amounts of information. Social media is accessible by large populations and it contains large amounts of health-related chatter posted by users themselves. Therefore, social media often contains health-related information that may not be available from any other sources.
 
-## Highlights
+Our social media mining research covers a range of topics including population health and individual health. 
 
-Our work was featured on <a href="https://www.popsci.com/story/health/opioids-social-media-predict/"> Popular Science </a> (with some fair criticism and skepticism). <br />
+Our objectives are:
+- Build end-to-end NLP pipelines for converting noisy social media text into valuable and actionable knowledge that can be used by domain experts.
+- Deriving population-level knowledge regarding topics of interest such as prescription drug use and misuse, drug effectiveness and adverse reactions, drug reliance and addiction, medication assisted treatment for addiction, assessing people's perception regarding certain drugs, and many other drug/medication-related studies.
+- Studying effectiveness of health service providers and programs such as Medicaid and Medicare.
+- Performing longitudinal analysis of user-posted information to study long-term behavioral patterns and associations.
+- Unobstrusively studying mental health-related information, including depression, stress, anxiety and loneliness.
 
-Our work was featured on <a href = "http://www.emoryhealthsciblog.com/opioids-crunching-the-tweets/"> The Emory Health Science Blog </a>. <br />
+## Projects 
 
-Our <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753983"> paper on JAMA Network Open</a> shows that we can potentially combine publicly available Twitter data, geospatial information, temporal information, natural language processing and applied machine learning to predict the status of the opioid crisis at a specific place (county and substate) within the U.S.A. <br />
+We currently have two active funded projects. 
 
-Our <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6774610/"> MedInfo-2019 paper </a> discusses effective data collection strategies for opioids from Twitter using NLP methods to generate common misspellings and supervised machine learning for filtering out noise. <br />
+### Social Media Mining for Toxicovigilance
+Our work on prescription medication use and misuse is funded by the NIH/NIDA. We are trying to build the NLP and computational methods that can make use of social media big data to predict future drug-related crises (such as the opioid crisis), study the current state of prescription drug related problems, study the natural histories of individuals suffering from substance use disorder and mining information that are useful to toxicologists who are assisting people with substance use disorder on a daily basis. 
 
-Our <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocz162/5581276"> JAMIA paper </a> reviews the literature on social media mining for prescription medication use/misuse. We propose a simple data-centric framework that is suitable for social media data. The particularly important aspect is filtering irrelevant information via the use of supervised classification. <br />
+Our publications related to the project are available from the NIH: <a href="https://projectreporter.nih.gov/project_info_results.cfm?aid=9577760&icde=47853524"> HERE </a>.
 
-Our <a href="https://preprints.jmir.org/preprint/15861"> JMIR paper </a> provides a detailed description of the importance of thorough annotation guidelines. The paper also contains publicly available data, the annotation guidleine and other resources.
+### Social Media Mining for Studying Medicaid Related Information
+We are working, in collaboration with the Oregon Health & Science University and the University of Pennsylvania, to study Medicaid-related information from Twitter. We have two primary objectives: (i) to understand how medicaid agencies and managed care organizations (MCOs) are using Twitter to provide services, and (ii) to study user perceptions about Medicaid-related services.
 
-
-## Projects and Studies
+## Other Ongoing Studies
 <ul>
 <li /> Social media mining for Toxicovigilance (NIH)
 <li /> Studing user perceptions of Medicaid services from Twitter (RWJF; OHSU) 
 <li /> Chronic stress and social media (Emory; TBA)
-<li /> Cancer and social media (Emory; TBA)
+<li /> Chronic disease communications and social media (Emory; TBA)
 <li /> Mental health and social media (Emory; TBA)
 
 </ul>
