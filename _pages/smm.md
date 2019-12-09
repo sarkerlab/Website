@@ -28,7 +28,7 @@ Our objectives are:
 
 ## Projects 
 
-We currently have two active funded projects. 
+We currently have two active funded projects: 
 
 ### Social Media Mining for Toxicovigilance
 Our work on prescription medication use and misuse is funded by the NIH/NIDA. We are trying to build the NLP and computational methods that can make use of social media big data to predict future drug-related crises (such as the opioid crisis), study the current state of prescription drug related problems, study the natural histories of individuals suffering from substance use disorder and mining information that are useful to toxicologists who are assisting people with substance use disorder on a daily basis. 
