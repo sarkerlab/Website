@@ -19,7 +19,7 @@ toc: true
 We are trying to define the concept of Patient-oriented NLP so that NLP can play a bigger role in evidence-based medicine practice.
 
 ## Highlights
-More details will be added in the near future..
+More details will be added in the near future...
 
 ## Ongoing Studies
 Patient-centric medical text summarization for evidence-based medicine.
