@@ -22,7 +22,7 @@ We are trying to define the concept of Patient-oriented NLP so that NLP can play
 More details will be added in the near future...
 
 ## Ongoing Studies
-Coming soon...
+Coming soon..
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
