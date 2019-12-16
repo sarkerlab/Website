@@ -1,6 +1,6 @@
 ---
 permalink: /heatmap/
-title: "Substance"
+title: "Substance Tweets"
 author_profile: false
 ---
 <html lang="en">
@@ -75,7 +75,7 @@ var path = d3.geo.path()               // path generator that will convert GeoJS
 var color = d3.scale.linear()
 			  .range(["rgb(213,222,217)","rgb(69,173,168)","rgb(84,36,55)","rgb(217,91,67)"]);
 
-var legendText = ["Substance 1", "Substance 2", "Substance 3", "Nada"];
+var legendText = ["Category 1", "Category 2", "Category 3", "Nada"];
 
 //Create SVG element and append map to the SVG
 var svg = d3.select("body")
@@ -90,7 +90,7 @@ var div = d3.select("body")
     		.style("opacity", 0);
 
 // Load in my states data!
-d3.csv("/assets/data/stateslived.csv", function(data) {
+d3.csv("/assets/data/states.csv", function(data) {
 color.domain([0,1,2,3]); // setting the range of the input data
 
 // Load GeoJSON data and merge with states data
@@ -144,7 +144,7 @@ svg.selectAll("path")
 
 
 // Map the cities I have lived in!
-d3.csv("/assets/data/cities-lived.csv", function(data) {
+d3.csv("/assets/data/cities.csv", function(data) {
 
 svg.selectAll("circle")
 	.data(data)
