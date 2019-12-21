@@ -53,7 +53,7 @@ team:
   - image_path: /assets/images/oreo.jpg
     title: "Oreo"
     interests: "Cleaning, Recharing, Getting stuck"
-    expertise: Inefficient Graph Traversal, Random Walk
+    expertise: Inefficient Graph Traversal; Random Walk
     excerpt: "Professor of Cleaning"
     email: mailto:coreyrshaw@gmail.com
     linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
