@@ -53,7 +53,7 @@ team:
   - image_path: /assets/images/oreo.png
     title: "Oreo"
     interests: "Cleaning, Recharging, Getting stuck"
-    expertise: Inefficient Graph Traversal; Random Walk
+    expertise: Inefficient Graph Traversal, Random Walk
     excerpt: "Professor of Cleaning"
     
 
