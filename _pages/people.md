@@ -50,6 +50,13 @@ team:
     excerpt: "Software Engineer"
     email: mailto:coreyrshaw@gmail.com
     linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
+  - image_path: /assets/images/oreo.jpg
+    title: "Oreo"
+    interests: "Cleaning, Recharing, Getting stuck"
+    expertise: Inefficient Graph Traversal; Random Walk
+    excerpt: "Professor of Cleaning"
+    email: mailto:coreyrshaw@gmail.com
+    linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
 
 collaborators:
   - image_path: /assets/images/gragon.jpg
