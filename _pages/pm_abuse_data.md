@@ -45,9 +45,17 @@ Our manual analysis and annotations of a large number of tweets have revealed ty
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese. -->
 
-## Public Health Relevance Statement
+## Manuscript and Data
 
-Narrative Prescription Medication (PM) abuse is a major epidemic in the United States, and monitoring and studying the characteristics of the PM abuse problem requires the development of novel approaches. Social media encapsulates an abundance of data about PM abuse from different demographics, but extracting that data and converting it to knowledge requires advanced natural language processing and data-centric artificial intelligence systems. Our proposed social media mining framework will automate the process of big data to knowledge conversion for PM abuse, providing crucial insights to toxicologists about targeted populations and enabling the future development of directed intervention strategies.
+Please cite this paper as: 
+O'Connor K, Sarker A, Perrone J, Gonzalez Hernandez G. Promoting Reproducible Research for Characterizing Nonmedical Use of Medications Through Data Annotation: Description of a Twitter Corpus and Guidelines. J Med Internet Res 2020;22(2):e15861. DOI: 10.2196/15861. PMID: 32130117 PMCID: 7066507.
+
+
+The data described is being used for the SMM4H shared task (Task 4). The shared task website is available here: https://competitions.codalab.org/competitions/23705?secret_key=aeda0cb9-a3da-4e4f-9d6a-d639355b455e
+
+The full paper can be accessed here: https://www.jmir.org/2020/2/e15861/
+
+
 
 <!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -68,9 +76,8 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-## Project Terms
 
-Adderall; addiction; Address; adverse outcome; Affect; Age; age group; Algorithms; analog; Artificial Intelligence; Attention; Automation; base; Behavior Therapy; Benzodiazepines; Big Data; Big Data to Knowledge; Categories; Central Nervous System Depressants; Cessation of life; Characteristics; Classification; Clinical; cohort; Cohort Studies; Collection; Communities; Control Groups; Data; Data Collection; Data Set; deep neural network; demographics; design; Detection; Development; Drug abuse; drug misuse; Emergency department visit; Emergency Situation; Encapsulated; Epidemic; Event; experimental group; Exposure to; Fentanyl; Forensic Medicine; Future; Gender; Geographic Locations; Goals; Guidelines; Health; Health Professional; Heart; Heroin; Hospitalization; Individual; Ingestion; innovation; insight; interest; Intervention; intervention program; Investigation; Knowledge; learning strategy; Life; Long-Term Effects; Machine Learning; Manuals; Medical; member; Metadata; Methods; Mining; misuse of prescription only drugs; Modeling; Monitor; Morbidity - disease rate; mortality; Names; National Institute of Drug Abuse; Natural History; natural language; Natural Language Processing; nonmedical use; novel; novel strategies; Observational Study; Occupations; open source; Opioid; opioid epidemic; Outcome; Overdose; overdose death; Oxycodone; Patient Self-Report; Pattern; Percocet; Periodicity; Pharmaceutical Preparations; Pilot Projects; Plant Roots; Population; Population Characteristics; prescription drug abuse; prescription monitoring program; Process; Public Health; quetiapine; Reporting; Research; Research Infrastructure; Schools; Social Impacts; social media; Source; spelling; study characteristics; Supervision; Surveillance Program; Surveys; System; Target Populations; Techniques; Text; therapy development; Time; TimeLine; Training; United States; Variant; Vicodin; Work
+
 
 <!-- ### Icons + Demo Images:
 
