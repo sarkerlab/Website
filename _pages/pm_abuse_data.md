@@ -19,19 +19,19 @@ toc: true
 TBA
 ## Abstract Text
 
-###Background
+### Background
 Social media data are being increasingly used for population-level health research because it provides near real-time access to large volumes of consumer-generated data. Recently, a number of studies have explored the possibility of using social media data, such as from Twitter, for monitoring prescription medication abuse. However, there is a paucity of annotated data or guidelines for data characterization that discuss how information related to abuse-prone medications is presented on Twitter.
 
-###Objective 
+### Objective 
 This study discusses the creation of an annotated corpus suitable for training supervised classification algorithms for the automatic classification of medication abuse–related chatter. The annotation strategies used for improving interannotator agreement (IAA), a detailed annotation guideline, and machine learning experiments that illustrate the utility of the annotated corpus are also described.
 
-###Methods 
+### Methods 
 We employed an iterative annotation strategy, with interannotator discussions held and updates made to the annotation guidelines at each iteration to improve IAA for the manual annotation task. Using the grounded theory approach, we first characterized tweets into fine-grained categories and then grouped them into 4 broad classes—abuse or misuse, personal consumption, mention, and unrelated. After the completion of manual annotations, we experimented with several machine learning algorithms to illustrate the utility of the corpus and generate baseline performance metrics for automatic classification on these data.
 
-###Results 
+### Results 
 Our final annotated set consisted of 16,443 tweets mentioning at least 20 abuse-prone medications including opioids, benzodiazepines, atypical antipsychotics, central nervous system stimulants, and gamma-aminobutyric acid analogs. Our final overall IAA was 0.86 (Cohen kappa), which represents high agreement. The manual annotation process revealed the variety of ways in which prescription medication misuse or abuse is discussed on Twitter, including expressions indicating coingestion, nonmedical use, nonstandard route of intake, and consumption above the prescribed doses. Among machine learning classifiers, support vector machines obtained the highest automatic classification accuracy of 73.00% (95% CI 71.4-74.5) over the test set (n=3271).
 
-###Conclusions 
+### Conclusions 
 Our manual analysis and annotations of a large number of tweets have revealed types of information posted on Twitter about a set of abuse-prone prescription medications and their distributions. In the interests of reproducible and community-driven research, we have made our detailed annotation guidelines and the training data for the classification experiments publicly available, and the test data will be used in future shared tasks.
 
 <!-- - Bundled as a "theme gem" for easier install/upgrading.
