@@ -22,9 +22,9 @@ Please cite this paper as:
 O'Connor K, Sarker A, Perrone J, Gonzalez Hernandez G. Promoting Reproducible Research for Characterizing Nonmedical Use of Medications Through Data Annotation: Description of a Twitter Corpus and Guidelines. J Med Internet Res 2020;22(2):e15861. DOI: 10.2196/15861. PMID: 32130117 PMCID: 7066507.
 
 
-The data described is being used for the SMM4H shared task (Task 4). The shared task website is available here: https://competitions.codalab.org/competitions/23705?secret_key=aeda0cb9-a3da-4e4f-9d6a-d639355b455e
+The data described is being used for the SMM4H shared task (Task 4). The shared task website is available [HERE]( https://competitions.codalab.org/competitions/23705?secret_key=aeda0cb9-a3da-4e4f-9d6a-d639355b455e)
 
-The full paper can be accessed here: https://www.jmir.org/2020/2/e15861/
+The full paper can be accessed [HERE](https://www.jmir.org/2020/2/e15861/)
 
 
 ## Abstract Text
