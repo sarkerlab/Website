@@ -15,7 +15,6 @@ layouts_gallery:
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
-
 ## Manuscript and Data
 
 Please cite this paper as: 
