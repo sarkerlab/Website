@@ -37,6 +37,13 @@ team:
     excerpt: "Graduate Research Student"
     linkedin: https://www.linkedin.com/in/botao-li/
   - image_path: /assets/images/demi.png
+    title: "Yuting Guo"
+    excerpt: "Graduate Research Assistant"
+    expertise:"Natural Language Processing"
+    interests: "Programming and Anime"
+    linkedin: https://www.linkedin.com/in/yuting-guo-53955b13b/
+    site: https://miopas.github.io/
+  - image_path: /assets/images/demi.png
     title: "Demi Majekodunmi"
     excerpt: "Undergraduate Research Assistant"
     linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
