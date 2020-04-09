@@ -39,7 +39,7 @@ team:
   - image_path: /assets/images/demi.png
     title: "Yuting Guo"
     excerpt: "Graduate Research Assistant"
-    expertise:"Natural Language Processing"
+    expertise: "Natural Language Processing"
     interests: "Programming and Anime"
     linkedin: https://www.linkedin.com/in/yuting-guo-53955b13b/
     site: https://miopas.github.io/
