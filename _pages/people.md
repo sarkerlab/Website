@@ -36,7 +36,7 @@ team:
     title: "Botao Li"
     excerpt: "Graduate Research Student"
     linkedin: https://www.linkedin.com/in/botao-li/
-  - image_path: /assets/images/demi.png
+  - image_path: /assets/images/yuting.png
     title: "Yuting Guo"
     excerpt: "Graduate Research Assistant"
     expertise: "Natural Language Processing"
