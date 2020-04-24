@@ -43,6 +43,12 @@ team:
     interests: "Programming and Anime"
     linkedin: https://www.linkedin.com/in/yuting-guo-53955b13b/
     site: https://miopas.github.io/
+  - image_path: /assets/images/sahithi.jpg
+    title: "Sahithi Lakamana"
+    excerpt: "Systems Software Engineer"
+    linkedin: https://www.linkedin.com/in/sahithi-lakamana-648416173/
+    site: https://github.com/LSahithiK
+    email: mailto:sahithi.krishnaveni.lakamana@emory.edu
   - image_path: /assets/images/demi.png
     title: "Demi Majekodunmi"
     excerpt: "Undergraduate Research Assistant"
