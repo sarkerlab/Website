@@ -43,7 +43,7 @@ team:
     interests: "Programming and Anime"
     linkedin: https://www.linkedin.com/in/yuting-guo-53955b13b/
     site: https://miopas.github.io/
-  - image_path: /assets/images/sahithi.jpg
+  - image_path: /assets/images/sahithi_la.jpg
     title: "Sahithi Lakamana"
     excerpt: "Systems Software Engineer"
     linkedin: https://www.linkedin.com/in/sahithi-lakamana-648416173/
