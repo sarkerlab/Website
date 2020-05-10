@@ -13,5 +13,5 @@ Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported
 
 Resources
 
-[Twitter COVID-19 symptom lexicon (Draft)] (https://drive.google.com/file/d/1H8JdPUuq4r_98QPpQmM5o7Y8G87z1nkp/view?usp=sharing) 
+[Twitter COVID-19 symptom lexicon] (https://drive.google.com/file/d/1H8JdPUuq4r_98QPpQmM5o7Y8G87z1nkp/view?usp=sharing) -- First Draft
 
