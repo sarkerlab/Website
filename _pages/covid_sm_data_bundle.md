@@ -9,7 +9,7 @@ This page contains resources created by various social media based studies focus
 
 ## Publications
 
-Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. UNDER PEER REVIEW. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v2"> PRE-PRINT </a> 
+Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. UNDER PEER REVIEW. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v2"> PREPRINT </a> 
 
 Resources
 
