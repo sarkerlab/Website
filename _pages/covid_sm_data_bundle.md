@@ -17,5 +17,5 @@ Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported
 
 Resources:
 
-<a href="https://drive.google.com/file/d/1MnjEDCUhH5Y6_1PyTU_S77RWUXPWoiM6/view?usp=sharing"> Twitter COVID-19 Symptom Lexicon (Draft version) </a>
+<a href="https://docs.google.com/document/d/1CdhpuNbCV4egYv0TA7hpTqVL3ZfAxyLQipAepDfPzBQ/edit?usp=sharing"> Twitter COVID-19 Symptom Lexicon (Draft version) </a>
 
