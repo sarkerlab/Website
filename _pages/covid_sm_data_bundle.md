@@ -8,7 +8,7 @@ This page contains resources associated with multiple studies (completed and ong
 
 Please see the resources associated with each publication. 
 
-*This page is currently under construction.*
+*This page is currently under construction*
 
 
 ## Publications
