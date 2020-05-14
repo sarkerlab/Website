@@ -15,6 +15,7 @@ Please see the resources associated with each publication.
 
 Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. UNDER PEER REVIEW. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v2"> Preprint </a> 
 
-Resources
+Resources:
+
 <a href="https://drive.google.com/file/d/1MnjEDCUhH5Y6_1PyTU_S77RWUXPWoiM6/view?usp=sharing"> Twitter COVID-19 Symptom Lexicon (Draft version) </a>
 
