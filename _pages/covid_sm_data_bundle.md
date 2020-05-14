@@ -4,7 +4,11 @@ author_profile: false
 title: "COVID-19 Social Media Data Bundle"
 ---
 
-This page contains resources created by various social media based studies focusing on COVID-19. Please see the resources associated with each publication. This page is currently under construction. 
+This page contains resources associated with multiple studies (completed and ongoing) focusing on COVID-19. 
+
+Please see the resources associated with each publication. 
+
+*This page is currently under construction.*
 
 
 ## Publications
