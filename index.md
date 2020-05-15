@@ -52,6 +52,13 @@ feature_row:
     excerpt: "We are striving to answer the question: What is patient-centeredness from the perspective of NLP? Our patient-centered NLP research focuses on enabling NLP-driven evidence-based medicine practice."
     url: "https://sarkerlab.org/pcnlp/"
     btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - #image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "NLP for Cancer"
+    excerpt: "We are developing social media based NLP pipelines to help fight cancer. We are specifically interested in understanding patient reported outcomes (PROs), so that we can better understand the outcomes that matter to patients."
+    url: "https://sarkerlab.org/pcnlp/"
+    btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
 
