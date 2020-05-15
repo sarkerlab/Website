@@ -57,7 +57,7 @@ feature_row:
     alt: "100% free"
     title: "NLP for Cancer"
     excerpt: "We are developing social media based NLP pipelines to help fight cancer. We are specifically interested in understanding patient reported outcomes (PROs), so that we can better understand the outcomes that matter to cancer patients."
-    url: "https://sarkerlab.org/pcnlp/"
+    url: "https://sarkerlab.org/smm_bc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
