@@ -38,10 +38,6 @@ team:
     linkedin: https://www.linkedin.com/in/sahithi-lakamana-648416173/
     site: https://github.com/LSahithiK
     email: mailto:sahithi.krishnaveni.lakamana@emory.edu
-  - image_path: /assets/images/botao_li.jpg
-    title: "Botao Li"
-    excerpt: "Graduate Research Student"
-    linkedin: https://www.linkedin.com/in/botao-li/
   - image_path: /assets/images/yuting.jpg
     title: "Yuting Guo"
     excerpt: "Graduate Research Assistant"
@@ -49,6 +45,10 @@ team:
     interests: "Programming and Anime"
     linkedin: https://www.linkedin.com/in/yuting-guo-53955b13b/
     site: https://miopas.github.io/
+  - image_path: /assets/images/botao_li.jpg
+    title: "Botao Li"
+    excerpt: "Graduate Research Student"
+    linkedin: https://www.linkedin.com/in/botao-li/
   - image_path: /assets/images/demi.png
     title: "Demi Majekodunmi"
     excerpt: "Undergraduate Research Assistant"
