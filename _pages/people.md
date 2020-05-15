@@ -32,6 +32,12 @@ team:
     pubs: https://www.researchgate.net/profile/Mohammed_Al-Garadi
     email: mailto:mohammed.ali.derhem.al-garadi@emory.edu
     id: "row2"
+  - image_path: /assets/images/sahithi_la.jpg
+    title: "Sahithi Lakamana"
+    excerpt: "Systems Software Engineer"
+    linkedin: https://www.linkedin.com/in/sahithi-lakamana-648416173/
+    site: https://github.com/LSahithiK
+    email: mailto:sahithi.krishnaveni.lakamana@emory.edu
   - image_path: /assets/images/botao_li.jpg
     title: "Botao Li"
     excerpt: "Graduate Research Student"
@@ -43,12 +49,6 @@ team:
     interests: "Programming and Anime"
     linkedin: https://www.linkedin.com/in/yuting-guo-53955b13b/
     site: https://miopas.github.io/
-  - image_path: /assets/images/sahithi_la.jpg
-    title: "Sahithi Lakamana"
-    excerpt: "Systems Software Engineer"
-    linkedin: https://www.linkedin.com/in/sahithi-lakamana-648416173/
-    site: https://github.com/LSahithiK
-    email: mailto:sahithi.krishnaveni.lakamana@emory.edu
   - image_path: /assets/images/demi.png
     title: "Demi Majekodunmi"
     excerpt: "Undergraduate Research Assistant"
