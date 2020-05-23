@@ -67,7 +67,7 @@ team:
     title: "Sabrina Li"
     excerpt: "Undergraduate Research Assistant"
     email: mailto:linyi.li@emory.edu
-    linkedin: linkedin.com/in/linyi-li-744051179
+    linkedin: https://www.linkedin.com/in/linyi-li-744051179
   - image_path: /assets/images/oreo.png
     title: "Oreo"
     interests: "Cleaning, Recharging, Getting stuck"
