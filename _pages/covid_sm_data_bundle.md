@@ -25,14 +25,14 @@ We are actively conducting research on a variety of covid-related studies. These
 ## Publications 
 
 
-Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. [in press]. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v3"> Preprint </a> 
+Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. [in press] <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v3"> Preprint </a> 
 
 Resources:
 
 Twitter COVID-19 <a href="https://docs.google.com/document/d/1CdhpuNbCV4egYv0TA7hpTqVL3ZfAxyLQipAepDfPzBQ/edit?usp=sharing"> Symptom Lexicon</a>
 
 
-Expanded (automatically; via a data-driven method) <a href = "https://drive.google.com/file/d/1qTI1BiNABAHOdfF51gmoH0E5lbV48-KY/view?usp=sharing"> Symptom Lexicon</a> [Publication Forthcoming].
+Expanded (automatically; via a data-driven method) <a href = "https://drive.google.com/file/d/1qTI1BiNABAHOdfF51gmoH0E5lbV48-KY/view?usp=sharing"> Symptom Lexicon</a> [Publication Forthcoming]
 
 
 Last updated: May 28th, 2020.
