@@ -13,7 +13,7 @@ Please see the resources associated with each publication.
 
 ## Publications
 
-Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. [In Press]. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v3"> Preprint </a> 
+Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. [in press]. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v3"> Preprint </a> 
 
 Resources:
 
