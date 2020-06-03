@@ -17,6 +17,8 @@ team:
   - image_path: /assets/images/xiangjue.png
     title: "Xiangjue Dong"
     excerpt: "Graduate Research Assistant"
+    expertise: NLP, AI
+    interest: Piano, Long-distance running, Sports
     linkedin: https://www.linkedin.com/in/xiangjue-dong/
     email: mailto:xiangjue.dong@emory.edu
     id: "row2"
