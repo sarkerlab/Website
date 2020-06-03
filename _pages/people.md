@@ -14,6 +14,12 @@ team:
     pubs: https://www.researchgate.net/profile/Mohammed_Al-Garadi
     email: mailto:mohammed.ali.derhem.al-garadi@emory.edu
     id: "row2"
+  - image_path: /assets/images/xiangjue.png
+    title: "Xiangjue Dong"
+    excerpt: "Graduate Research Assistant"
+    linkedin: https://www.linkedin.com/in/xiangjue-dong/
+    email: mailto:xiangjue.dong@emory.edu
+    id: "row2"
   - image_path: /assets/images/yuting.jpg
     title: "Yuting Guo"
     excerpt: "Graduate Research Assistant"
