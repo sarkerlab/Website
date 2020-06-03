@@ -73,14 +73,6 @@ team:
     interests: "Cleaning, Recharging, Getting stuck"
     expertise: Inefficient Graph Traversal; Random Walk
     excerpt: "Professor of Cleaning"
-  
-  
-  
-  
-  
-  
-  
-  
     
 
 collaborators:
