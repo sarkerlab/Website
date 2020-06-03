@@ -39,6 +39,10 @@ team:
     excerpt: "Undergraduate Research Assistant"
     email: mailto:linyi.li@emory.edu
     linkedin: https://www.linkedin.com/in/linyi-li-744051179
+  - image_path: /assets/images/demi.png
+    title: "Demi Majekodunmi"
+    excerpt: "Undergraduate Research Assistant"
+    linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
   - image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
@@ -56,10 +60,6 @@ team:
     excerpt: "Software Engineer"
     email: mailto:coreyrshaw@gmail.com
     linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
-  - image_path: /assets/images/demi.png
-    title: "Demi Majekodunmi"
-    excerpt: "Undergraduate Research Assistant"
-    linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
