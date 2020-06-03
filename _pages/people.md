@@ -7,6 +7,38 @@ entries_layout: grid
 classes: wide
 author_profile: false
 team:
+  - image_path: /assets/images/mohammed_ali.jpg
+    title: "Mohammed Ali Al-Garadi"
+    excerpt: "Postdoctoral Scholar"
+    site: https://scholar.google.com/citations?user=OVSHl-sAAAAJ
+    pubs: https://www.researchgate.net/profile/Mohammed_Al-Garadi
+    email: mailto:mohammed.ali.derhem.al-garadi@emory.edu
+    id: "row2"
+  - image_path: /assets/images/yuting.jpg
+    title: "Yuting Guo"
+    excerpt: "Graduate Research Assistant"
+    expertise: "Natural Language Processing"
+    interests: "Programming and Anime"
+    linkedin: https://www.linkedin.com/in/yuting-guo-53955b13b/
+    site: https://miopas.github.io/
+  - image_path: /assets/images/whitney.jpg
+    title: "Whitney Hogg"
+    excerpt: "Project Manager/Software Engineer"
+  - image_path: /assets/images/sahithi_la.jpg
+    title: "Sahithi Lakamana"
+    excerpt: "Systems Software Engineer"
+    linkedin: https://www.linkedin.com/in/sahithi-lakamana-648416173/
+    site: https://github.com/LSahithiK
+    email: mailto:sahithi.krishnaveni.lakamana@emory.edu
+  - image_path: /assets/images/botao_li.jpg
+    title: "Botao Li"
+    excerpt: "Graduate Research Student"
+    linkedin: https://www.linkedin.com/in/botao-li/
+  - image_path: /assets/images/sabrinali.jpg
+    title: "Sabrina Li"
+    excerpt: "Undergraduate Research Assistant"
+    email: mailto:linyi.li@emory.edu
+    linkedin: https://www.linkedin.com/in/linyi-li-744051179
   - image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
@@ -17,6 +49,17 @@ team:
     pubs: https://www.researchgate.net/profile/Abeed_Sarker
     linkedin: https://www.linkedin.com/in/abeed-sarker-572a1921/
     email: mailto:abeed@dbmi.emory.edu
+  - image_path: /assets/images/coreyshaw.jpg
+    title: "Corey Shaw"
+    interests: "Traveling, Sports, Startups, VR"
+    expertise: HTML, CSS, Swift, JS
+    excerpt: "Software Engineer"
+    email: mailto:coreyrshaw@gmail.com
+    linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
+  - image_path: /assets/images/demi.png
+    title: "Demi Majekodunmi"
+    excerpt: "Undergraduate Research Assistant"
+    linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
@@ -25,54 +68,19 @@ team:
     pubs: https://www.researchgate.net/profile/Yuan_Chi_Yang
     email: mailto:yuan-chi.yang@emory.edu
     id: "row2"
-  - image_path: /assets/images/mohammed_ali.jpg
-    title: "Mohammed Ali Al-Garadi"
-    excerpt: "Postdoctoral Scholar"
-    site: https://scholar.google.com/citations?user=OVSHl-sAAAAJ
-    pubs: https://www.researchgate.net/profile/Mohammed_Al-Garadi
-    email: mailto:mohammed.ali.derhem.al-garadi@emory.edu
-    id: "row2"
-  - image_path: /assets/images/sahithi_la.jpg
-    title: "Sahithi Lakamana"
-    excerpt: "Systems Software Engineer"
-    linkedin: https://www.linkedin.com/in/sahithi-lakamana-648416173/
-    site: https://github.com/LSahithiK
-    email: mailto:sahithi.krishnaveni.lakamana@emory.edu
-  - image_path: /assets/images/yuting.jpg
-    title: "Yuting Guo"
-    excerpt: "Graduate Research Assistant"
-    expertise: "Natural Language Processing"
-    interests: "Programming and Anime"
-    linkedin: https://www.linkedin.com/in/yuting-guo-53955b13b/
-    site: https://miopas.github.io/
-  - image_path: /assets/images/botao_li.jpg
-    title: "Botao Li"
-    excerpt: "Graduate Research Student"
-    linkedin: https://www.linkedin.com/in/botao-li/
-  - image_path: /assets/images/demi.png
-    title: "Demi Majekodunmi"
-    excerpt: "Undergraduate Research Assistant"
-    linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
-  - image_path: /assets/images/whitney.jpg
-    title: "Whitney Hogg"
-    excerpt: "Project Manager/Software Engineer"
-  - image_path: /assets/images/coreyshaw.jpg
-    title: "Corey Shaw"
-    interests: "Traveling, Sports, Startups, VR"
-    expertise: HTML, CSS, Swift, JS
-    excerpt: "Software Engineer"
-    email: mailto:coreyrshaw@gmail.com
-    linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
-  - image_path: /assets/images/sabrinali.jpg
-    title: "Sabrina Li"
-    excerpt: "Undergraduate Research Assistant"
-    email: mailto:linyi.li@emory.edu
-    linkedin: https://www.linkedin.com/in/linyi-li-744051179
   - image_path: /assets/images/oreo.png
     title: "Oreo"
     interests: "Cleaning, Recharging, Getting stuck"
     expertise: Inefficient Graph Traversal; Random Walk
     excerpt: "Professor of Cleaning"
+  
+  
+  
+  
+  
+  
+  
+  
     
 
 collaborators:
@@ -124,7 +132,7 @@ alumni:
   excerpt: "Web Developer"
 ---
 
-<h1>Team Members</h1>
+<h1>Team Members (alphabetical by surname)</h1>
 {% include feature_row id="team" %}
 
 <h1>Collaborators</h1>
