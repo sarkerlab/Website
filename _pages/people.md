@@ -81,7 +81,8 @@ team:
     interests: "Cleaning, Recharging, Getting stuck"
     expertise: Inefficient Graph Traversal; Random Walk
     excerpt: "Professor of Cleaning"
-    
+
+
 collaborators:
   - image_path: /assets/images/gragon.jpg
     title: "Graciela Gonzalez-Hernandez"
