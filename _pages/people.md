@@ -10,6 +10,8 @@ team:
   - image_path: /assets/images/mohammed_ali.jpg
     title: "Mohammed Ali Al-Garadi"
     excerpt: "Postdoctoral Scholar"
+    expertise: NLP; Social Media; Surveillance Methods
+    interests: Sports; Science
     site: https://scholar.google.com/citations?user=OVSHl-sAAAAJ
     pubs: https://www.researchgate.net/profile/Mohammed_Al-Garadi
     email: mailto:mohammed.ali.derhem.al-garadi@emory.edu
