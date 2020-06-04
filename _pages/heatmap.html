@@ -88,13 +88,14 @@ author_profile: false
   <body>
   	<!-- Initialize a select button -->
     <select id="selectSubstanceButton">
-    	<option value="substance1">Substance 1</option>
-    	<option value="substance2">Substance 2</option>
-    	<option value="substance3">Substance 3</option>
+    	<option value="substance1">Opioids</option>
+    	<option value="substance2">Benzodiazepines</option>
+    	<option value="substance3">Stimulants</option>
+      <option value="substance4">Atypical anti-psychotics</option>
     </select>
     <select id="selectYearButton">
+    	<option value="_2019">2019</option>
     	<option value="2018">2018</option>
-    	<option value="2019">2019</option>
     </select>
   <script type="text/javascript">
 
@@ -123,9 +124,9 @@ author_profile: false
 
   // Define linear scale for output
   var color = d3.scale.linear()
-  				.range(["rgba(217,91,67, 0.7)","rgba(217,91,67, 0.8)","rgba(217,91,67, 0.9)","rgba(217,91,67, 1)","rgba(217,91,67, 0.5)"]);
+  				.range(["rgba(217,91,67, 0.2)","rgba(217,91,67, 0.4)","rgba(217,91,67, 0.6)","rgba(217,91,67, 0.8)","rgba(217,91,67, 1)"]);
 
-  var legendText = ["Category 1", "Category 2", "Category 3", "Category 4", "Category 5"];
+  var legendText = ["0-39", "40-55", "56-70", "71-85", "86-100"];
 
   //Create SVG element and append map to the SVG
   var svg = d3.select("body")
@@ -172,7 +173,7 @@ author_profile: false
   				.attr("class", "tooltip")
   				.style("opacity", 0);
 
-  makechart("/assets/data/substance1.csv")
+  makechart("/assets/data/substance1_2019.csv")
 
   function makechart(csvFile) {
   	console.log(csvFile);
@@ -301,13 +302,27 @@ author_profile: false
   }
 
   // When the button is changed, run the updateChart function
-    d3.select("#selectSubstanceButton").on("change", function(d) {
+  d3.select("#selectSubstanceButton").on("change", function(d) {
+      // recover the option that has been chosen
+      var selectedSubstance = d3.select(this).property("value")
+      var selectedYear = d3.select(selectYearButton).property("value")
+			var csvFile = selectedSubstance + selectedYear + ".csv";
+      console.log(csvFile)
+      // run the updateChart function with this selected option
+      makechart(csvFile)
+  })
+
+  // When the button is changed, run the updateChart function
+    d3.select("#selectYearButton").on("change", function(d) {
         // recover the option that has been chosen
-        var selectedSubstance = d3.select(this).property("value")
-  			var csvFile = "/assets/data/" + selectedSubstance + ".csv"
+        var selectedYear = d3.select(this).property("value")
+        var selectedSubstance = d3.select(selectSubstanceButton).property("value")
+  			var csvFile = selectedSubstance + selectedYear + ".csv";
+        console.log(csvFile)
         // run the updateChart function with this selected option
         makechart(csvFile)
     })
+
   </script>
   </body>
 </html>
