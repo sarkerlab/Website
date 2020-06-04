@@ -1,51 +1,52 @@
 state,visited
-Alabama,3
-Alaska,2
-Arkansas,2
-Arizona,2
-California,2
-Colorado,1
-Connecticut,1
-Delaware,2
-Florida,2
-Georgia,2
-Hawaii,4
-Iowa,2
-Idaho,1
-Illinois,1
-Indiana,2
-Kansas,2
-Kentucky,2
-Louisiana,2
-Maine,1
-Maryland,1
-Massachusetts,1
-Michigan,2
-Minnesota,1
-Missouri,2
-Mississippi,2
-Montana,1
-North Carolina,2
-North Dakota,2
-Nebraska,2
-New Hampshire,1
-New Jersey,2
-New Mexico,1
-Nevada,1
-New York,2
-Ohio,1
-Oklahoma,2
-Oregon,1
-Pennsylvania,1
-Rhode Island,1
-South Carolina,2
-South Dakota,2
-Tennessee,2
-Texas,2
-Utah,1
-Virginia,2
-Vermont,2
-Washington,1
-Wisconsin,2
-West Virginia,2
-Wyoming,1
+Alabama, 82.6611129178524
+Alaska, 46.4872592667172
+Arizona, 60.6585972224321
+Arkansas, 74.7098725462053
+California, 51.8086646163892
+Colorado, 60.2348590517258
+Connecticut, 59.1426675373451
+Delaware, 56.5939706111707
+District of Columbia, 49.9913057469281
+Florida, 64.4598317887368
+Georgia, 61.8924983501688
+Hawaii, 38.2088188441974
+Idaho, 65.273557525699
+Illinois, 65.1717468346347
+Indiana, 78.9207179263442
+Iowa, 56.6883357439325
+Kansas, 70.6206645232434
+Kentucky, 72.9214162008117
+Louisiana, 102.920223909817
+Maine, 69.6113701343244
+Maryland, 61.3741311094297
+Massachusetts, 75.2672829910115
+Michigan, 84.1940378057587
+Minnesota, 67.712316465694
+Mississippi, 82.8920853085219
+Missouri, 65.7411547728723
+Montana, 70.44779995061
+Nebraska, 65.982535951221
+Nevada, 56.8781609951304
+New Hampshire, 72.4634525689877
+New Jersey, 54.9360789168378
+New Mexico, 41.3366455259706
+New York, 54.8965342110921
+North Carolina, 63.9206582480202
+North Dakota, 64.3416994614116
+Ohio, 71.7218310057396
+Oklahoma, 65.9073164831098
+Oregon, 56.6776591566635
+Pennsylvania, 73.5000575280977
+Rhode Island, 90.6249204446092
+South Carolina, 77.0046628021853
+South Dakota, 55.1876148175337
+Tennessee, 69.4393415664323
+Texas, 64.0608600878766
+Utah, 87.7059366086935
+Vermont, 57.6558896188384
+Virginia, 64.2769643787385
+Washington, 59.1538605572936
+West Virginia, 63.7642014497594
+Wisconsin, 72.2402459863318
+Wyoming, 61.9109515876605
