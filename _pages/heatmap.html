@@ -37,7 +37,7 @@ author_profile: false
     .legend {
       height: 40%;
       position: absolute;
-      left: 2rem;
+      left: 0rem;
       top: 25rem !important;
     }
     body, #map {
@@ -54,7 +54,7 @@ author_profile: false
   /* Legend Position Style */
   .legend {
   	position: absolute;
-    /*right: 23rem;*/
+    right: 23rem;
     top: 17rem;
   }
   #selectSubstanceButton, #selectYearButton {
@@ -125,7 +125,7 @@ author_profile: false
   var color = d3.scale.linear()
   				.range(["rgba(217,91,67, 0.7)","rgba(217,91,67, 0.8)","rgba(217,91,67, 0.9)","rgba(217,91,67, 1)","rgba(217,91,67, 0.5)"]);
 
-  var legendText = ["Category 1", "Category 2", "Category 3", "Nada", "Category 5"];
+  var legendText = ["Category 1", "Category 2", "Category 3", "Category 4", "Category 5"];
 
   //Create SVG element and append map to the SVG
   var svg = d3.select("body")
@@ -181,7 +181,7 @@ author_profile: false
   	color.domain([0,1,2,3,4]); // setting the range of the input data
 
   	// Load GeoJSON data and merge with states data
-  	d3.json("/assets/data/us-states.json", function(json) {
+  	d3.json("/assets/data/sus-states.json", function(json) {
 
   	// Loop through each state data value in the .csv file
   	for (var i = 0; i < data.length; i++) {
@@ -304,7 +304,7 @@ author_profile: false
     d3.select("#selectSubstanceButton").on("change", function(d) {
         // recover the option that has been chosen
         var selectedSubstance = d3.select(this).property("value")
-  			var csvFile = selectedSubstance + ".csv";
+  			var csvFile = "/assets/data/" + selectedSubstance + ".csv"
         // run the updateChart function with this selected option
         makechart(csvFile)
     })
