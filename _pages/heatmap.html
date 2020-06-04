@@ -37,7 +37,7 @@ author_profile: false
     .legend {
       height: 40%;
       position: absolute;
-      left: 0rem;
+      left: 0.5rem;
       top: 25rem !important;
     }
     body, #map {
@@ -55,7 +55,7 @@ author_profile: false
   .legend {
   	position: absolute;
     right: 23rem;
-    top: 17rem;
+    top: 25rem;
   }
   #selectSubstanceButton, #selectYearButton {
     display: inline-block;
@@ -306,7 +306,7 @@ author_profile: false
       // recover the option that has been chosen
       var selectedSubstance = d3.select(this).property("value")
       var selectedYear = d3.select(selectYearButton).property("value")
-			var csvFile = selectedSubstance + selectedYear + ".csv";
+			var csvFile = "/assets/data/" + selectedSubstance + selectedYear + ".csv";
       console.log(csvFile)
       // run the updateChart function with this selected option
       makechart(csvFile)
@@ -317,7 +317,7 @@ author_profile: false
         // recover the option that has been chosen
         var selectedYear = d3.select(this).property("value")
         var selectedSubstance = d3.select(selectSubstanceButton).property("value")
-  			var csvFile = selectedSubstance + selectedYear + ".csv";
+  			var csvFile = "/assets/data/" + selectedSubstance + selectedYear + ".csv";
         console.log(csvFile)
         // run the updateChart function with this selected option
         makechart(csvFile)
