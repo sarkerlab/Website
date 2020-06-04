@@ -71,6 +71,7 @@ team:
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
+    expertise: Quantum computing; Mathematics; Statistics
     twitter: https://twitter.com/YuanChi_Yang
     linkedin: https://www.linkedin.com/in/yuan-chi-yang/
     pubs: https://www.researchgate.net/profile/Yuan_Chi_Yang
