@@ -10,6 +10,8 @@ team:
   - image_path: /assets/images/mohammed_ali.jpg
     title: "Mohammed Ali Al-Garadi"
     excerpt: "Postdoctoral Scholar"
+    expertise: NLP; Social Media; Surveillance Methods
+    interests: Sports; Science
     site: https://scholar.google.com/citations?user=OVSHl-sAAAAJ
     pubs: https://www.researchgate.net/profile/Mohammed_Al-Garadi
     email: mailto:mohammed.ali.derhem.al-garadi@emory.edu
@@ -71,6 +73,7 @@ team:
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
+    expertise: Quantum computing; Mathematics; Statistics
     twitter: https://twitter.com/YuanChi_Yang
     linkedin: https://www.linkedin.com/in/yuan-chi-yang/
     pubs: https://www.researchgate.net/profile/Yuan_Chi_Yang
@@ -130,7 +133,7 @@ alumni:
   excerpt: "Web Developer"
 ---
 
-<h1>Team Members (alphabetical by surname)</h1>
+<h1>Team Members (in alphabetical order)</h1>
 {% include feature_row id="team" %}
 
 <h1>Collaborators</h1>
