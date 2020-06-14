@@ -4,9 +4,9 @@ author_profile: false
 title: "LexExp - the lexicon expander"
 ---
 
-COMING SOON!
+Paper under review
 
-## Links
+## Resources
 
 A social media based word2vec model (published with a separate paper): <a href="https://data.mendeley.com/datasets/dwr4xn8kcv/3"> Download </a>
 
