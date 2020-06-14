@@ -1,7 +1,7 @@
 ---
 permalink: /lexexp/
 author_profile: false
-title: "LexExp - the lexicon expander"
+title: "LexExp - The Lexicon Expander"
 ---
 
 Paper under review
