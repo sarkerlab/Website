@@ -139,7 +139,7 @@ alumni:
   excerpt: "Web Developer"
 ---
 
-<h1>Team Members (in alphabetical order)</h1>
+<h1>Team Members (alphabetical order; lastname)</h1>
 {% include feature_row id="team" %}
 
 <h1>Collaborators</h1>
