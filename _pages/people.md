@@ -91,10 +91,6 @@ team:
     excerpt: "Professor of Screaming"    
     
 collaborators:
-  - image_path: /assets/images/gragon.jpg
-    title: "Graciela Gonzalez-Hernandez"
-    excerpt: "University of Pennsylvania"
-    site: https://healthlanguageprocessing.org/
   - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
@@ -117,6 +113,10 @@ collaborators:
     site: https://healthlanguageprocessing.org/
   - image_path: /assets/images/haitao.jpg
     title: "Haitao Cai"
+    excerpt: "University of Pennsylvania"
+    site: https://healthlanguageprocessing.org/
+  - image_path: /assets/images/gragon.jpg
+    title: "Graciela Gonzalez-Hernandez"
     excerpt: "University of Pennsylvania"
     site: https://healthlanguageprocessing.org/
 
