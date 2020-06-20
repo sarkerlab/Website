@@ -84,7 +84,13 @@ team:
     interests: "Cleaning, Recharging, Getting stuck"
     expertise: Inefficient Graph Traversal; Random Walk
     excerpt: "Professor of Cleaning"
-
+  - image_path: /assets/images/beakbeak.png
+    title: "Beak Beak"
+    interests: "Screaming, Chewing Paper"
+    expertise: Running over keyboards; Disrupting meetings
+    excerpt: "Professor of Screaming"
+    
+    
 collaborators:
   - image_path: /assets/images/gragon.jpg
     title: "Graciela Gonzalez-Hernandez"
