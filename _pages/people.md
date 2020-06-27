@@ -112,7 +112,7 @@ collaborators:
     site: https://people.csiro.au/P/C/Cecile-Paris
   - image_path: /assets/images/diego.png
     title: "Diego Molla-Aliod"
-    excerpt: "Department of Computing, Macquarie University, Australia"
+    excerpt: "Macquarie University, Australia"
     site: http://web.science.mq.edu.au/~diego/
   - image_path: /assets/images/jane_zhu.jpg
     title: "Jane Zhu"
