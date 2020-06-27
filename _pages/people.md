@@ -106,6 +106,14 @@ collaborators:
     title: "Sangmi Kim"
     excerpt: "School of Nursing, Emory University"
     site: http://www.nursing.emory.edu/faculty-and-research/directory/profile.html?id=4925
+  - image_path: /assets/images/cecile.jpeg
+    title: "Cecile Paris"
+    excerpt: "Data61, CSIRO, Australia"
+    site: https://people.csiro.au/P/C/Cecile-Paris
+  - image_path: /assets/images/diego.png
+    title: "Diego Molla-Aliod"
+    excerpt: "Department of Computing, Macquarie University, Australia"
+    site: http://web.science.mq.edu.au/~diego/
   - image_path: /assets/images/jane_zhu.jpg
     title: "Jane Zhu"
     excerpt: "Oregon Health & Science University"
