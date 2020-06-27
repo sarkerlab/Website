@@ -99,7 +99,7 @@ team:
     excerpt: "Professor of Screaming"
   - image_path: /assets/images/kang_1.gif
     title: "Liu Kang"
-    interests: "Mortal Kombat"
+    interests: "Fighting"
     expertise: Bicycle kicks, fire-throwing
     excerpt: "Mortal Kombat Champion"
  
