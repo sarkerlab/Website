@@ -97,7 +97,7 @@ team:
     interests: "Screaming, Chewing Paper"
     expertise: Running over keyboards; Disrupting meetings
     excerpt: "Professor of Screaming"
-  - image_path: /assets/images/kang_1.gif
+  - image_path: /assets/images/kang1.gif
     title: "Liu Kang"
     interests: "Fighting"
     expertise: Bicycle kicks, fire-throwing
