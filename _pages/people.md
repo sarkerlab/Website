@@ -40,6 +40,13 @@ team:
     linkedin: https://www.linkedin.com/in/sahithi-lakamana-648416173/
     site: https://github.com/LSahithiK
     email: mailto:sahithi.krishnaveni.lakamana@emory.edu
+  - image_path: /assets/images/leslie.png
+    title: "Abimbola Leslie"
+    excerpt: "Graduate Research Assistant"
+    linkedin: https://www.linkedin.com/in/abimbola-leslie-md-mph-88a04014/
+    email: mailto:abimbola.adeola.leslie@emory.edu
+    interests: "Movies, Music, Traveling"
+    expertise: Public Health
   - image_path: /assets/images/botao_li.jpg
     title: "Botao Li"
     excerpt: "Graduate Research Student"
