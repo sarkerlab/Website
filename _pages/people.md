@@ -96,8 +96,8 @@ team:
     interests: "Screaming, Chewing Paper"
     expertise: Running over keyboards; Disrupting meetings
     excerpt: "Professor of Screaming"    
-    
-collaborators:
+ 
+ collaborators:
   - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
     excerpt: "University of Pennsylvania"
