@@ -103,7 +103,6 @@ team:
     expertise: Bicycle kicks, fire-throwing
     excerpt: "Mortal Kombat Champion"
  
-
 collaborators:
   - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
