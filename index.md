@@ -18,7 +18,7 @@ excerpt: >
    <font color="#ADDFFF"><b> Create</b></font> and <font color="#ADDFFF"><b>share</b></font> easily-to-use text mining, machine learning, natural language processing and artificial intelligence solutions. <br /> <br />
   
   NOTICE:  <br />
-  We are seeking **PhD Students**, **Research Scientists**, **Data Analysts** and **Research Assistants**. Areas of interest include: Natural Language Processing, Machine Learning, Social Media Mining, Statistics and Public Health.<br />
+  We are still taking **PhD Students**. Areas of interest include: Natural Language Processing, Machine Learning and Public Health.<br />
   
   If interested, please email the lab director directly at: abeed  [AT]  dbmi.emory.edu 
   </font>
