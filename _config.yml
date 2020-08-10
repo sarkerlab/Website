@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "default", "dark", "dirt",
 locale                   : "en-US"
 title                    : "Sarker Lab"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : #site tagline that appears below site title in masthead
 name                     : "Abeed Sarker"
-description              : "This is the official website for Sarker lab at EmoryAn amazing website."
+description              : "This is the official website for Sarker lab at Emory"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,17 +108,17 @@ analytics:
 # Site Author
 author:
   name             : "Abeed Sarker"
-  avatar           : "/assets/images/abeed.jpg"
+  avatar           : "/assets/images/logo.png"
   # bio              : ""
   # location         : "Somewhere"
   # email            : " "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:your.name@email.com
+      url: abeed@dbmi.emory.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://abeedsarker.com"
+      url: "https://sarkerlab.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sarkerabeed?lang=en"
@@ -137,13 +137,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: ""
+      url: "https://twitter.com/emorybmi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: "Bitbucket"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://bitbucket.org/asarker/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
