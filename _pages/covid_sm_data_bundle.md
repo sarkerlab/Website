@@ -20,19 +20,24 @@ We are actively conducting research on a variety of covid-related studies. These
 
 - COVID and mental health: we are studying the impact of COVID on mental health using social media mining methods. 
 
-
-
 ## Publications 
 
 
-Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. [in press]. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v3"> Preprint </a> 
+[1] Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. [in press]. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v3"> Preprint </a> 
 
-Resources:
+## Resources:
 
-Twitter COVID-19 <a href="https://docs.google.com/document/d/1CdhpuNbCV4egYv0TA7hpTqVL3ZfAxyLQipAepDfPzBQ/edit?usp=sharing"> Symptom Lexicon</a>
+Twitter COVID-19 <a href="https://docs.google.com/document/d/1CdhpuNbCV4egYv0TA7hpTqVL3ZfAxyLQipAepDfPzBQ/edit?usp=sharing"> Symptom Lexicon</a> [1]
 
+Expanded Lexicon (automatically; via a data-driven method) <a href = "https://drive.google.com/file/d/1qTI1BiNABAHOdfF51gmoH0E5lbV48-KY/view?usp=sharing"> Symptom Lexicon</a> [Publication Forthcoming].
 
-Expanded (automatically; via a data-driven method) <a href = "https://drive.google.com/file/d/1qTI1BiNABAHOdfF51gmoH0E5lbV48-KY/view?usp=sharing"> Symptom Lexicon</a> [Publication Forthcoming].
+# Word2Vec Models
+Four covid-19-related models:
+- Small model on Twitter
+- Large model on Twitter
+- Social media model (Reddit + Twitter)
+- Combined dataset (social media & literature.
 
+Available <a href="https://drive.google.com/drive/folders/1RVJsODphSy_oxIq4ubm94ZUV7EntJJGZ?usp=sharing"> here </a>
 
-Last updated: May 28th, 2020.
+Last updated: Aug 8th, 2020.
