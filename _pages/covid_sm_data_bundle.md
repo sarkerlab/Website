@@ -32,7 +32,7 @@ Twitter COVID-19 <a href="https://docs.google.com/document/d/1CdhpuNbCV4egYv0TA7
 Expanded Lexicon (automatically; via a data-driven method) <a href = "https://drive.google.com/file/d/1qTI1BiNABAHOdfF51gmoH0E5lbV48-KY/view?usp=sharing"> Symptom Lexicon</a> [Publication Forthcoming].
 
 # Word2Vec Models
-Four covid-19-related models (Available <a href="https://drive.google.com/drive/folders/1RVJsODphSy_oxIq4ubm94ZUV7EntJJGZ?usp=sharing"> here </a>):
+Four covid-19-related models (Available <a href="https://drive.google.com/drive/folders/1RVJsODphSy_oxIq4ubm94ZUV7EntJJGZ?usp=sharing"> here</a>):
 - Small model on Twitter
 - Large model on Twitter
 - Social media model (Reddit + Twitter)
