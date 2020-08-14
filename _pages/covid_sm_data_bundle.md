@@ -4,11 +4,9 @@ author_profile: false
 title: "COVID-19 Social Media Data Bundle"
 ---
 
-This page contains resources associated with multiple studies (completed and ongoing) focusing on COVID-19. 
+This page contains resources associated with multiple studies (completed and ongoing) focusing on COVID-19 (scroll down). 
 
 Research topics/studies:
-
-We are actively conducting research on a variety of covid-related studies. These studies are in collaboration with researchers from Emory University (Medicine, Public Health & Nursing), Georgia Department of Public Health (GDPH) and the Centers for Disease Control and Prevention (CDC). See summary below:
 
 - Syndromic surveillance: we are utilizing real-time social media data, natural language processing and machine learning methods to identify and track symptom distributions over time. 
 
@@ -19,6 +17,8 @@ We are actively conducting research on a variety of covid-related studies. These
 - MOUD treatment access during COVID: in line with our past work, we are studying how COVID is affecting SUD and OUD treatment programs.
 
 - COVID and mental health: we are studying the impact of COVID on mental health using social media mining methods. 
+
+- Impact of COVID on national services such as Medicaid.
 
 ## Publications 
 
@@ -31,13 +31,18 @@ Twitter COVID-19 <a href="https://docs.google.com/document/d/1CdhpuNbCV4egYv0TA7
 
 Expanded Lexicon (automatically; via a data-driven method) <a href = "https://drive.google.com/file/d/1qTI1BiNABAHOdfF51gmoH0E5lbV48-KY/view?usp=sharing"> Symptom Lexicon</a> [Publication Forthcoming].
 
-# Word2Vec Models
+## Word2Vec Models
 Four covid-19-related models (Available <a href="https://drive.google.com/drive/folders/1RVJsODphSy_oxIq4ubm94ZUV7EntJJGZ?usp=sharing">here</a>):
 - Small model on Twitter
 - Large model on Twitter
 - Social media model (Reddit + Twitter)
-- Combined dataset (social media & literature
+- Combined dataset (social media & literature)
 
 
+## Funding, Collaborations and Acknowledgments
 
-Last updated: Aug 8th, 2020.
+The studies are currently funded partially or fully by Emory University, the Centers for Disease Control and Prevention (CDC), and the National Institute on Drug Abuse (NIDA), and the Robert Wood Johnson Foundation.
+
+The above studies are in collaboration with researchers from Emory University (Medicine, Public Health & Nursing), Georgia Department of Public Health, the Centers for Disease Control and Prevention (CDC), and various other universities across the United States.
+
+Last updated: Aug 10th, 2020.
