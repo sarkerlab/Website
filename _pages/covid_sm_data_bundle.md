@@ -20,17 +20,19 @@ Research topics/studies:
 
 - Impact of COVID on national services such as Medicaid.
 
-## Publications 
+# Publications 
 
 [1] Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. [in press]. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v3"> Preprint </a> 
 
-## Resources:
+# Resources:
 
+## Twitter Symptom Lexicon
 Twitter COVID-19 <a href="https://docs.google.com/document/d/1CdhpuNbCV4egYv0TA7hpTqVL3ZfAxyLQipAepDfPzBQ/edit?usp=sharing"> Symptom Lexicon</a> [1]
 
+## Automatically Expanded Symptom Lexicon
 Expanded Lexicon (automatically; via a data-driven method) <a href = "https://drive.google.com/file/d/1qTI1BiNABAHOdfF51gmoH0E5lbV48-KY/view?usp=sharing"> Symptom Lexicon</a> [Publication Forthcoming].
 
-## Word2Vec Models
+## COVID19 Word2Vec Models
 Four covid-19-related models (Available <a href="https://drive.google.com/drive/folders/1RVJsODphSy_oxIq4ubm94ZUV7EntJJGZ?usp=sharing">here</a>):
 - Small model on Twitter
 - Large model on Twitter
@@ -41,6 +43,6 @@ Four covid-19-related models (Available <a href="https://drive.google.com/drive/
 
 The studies are currently funded partially or fully by Emory University, the Centers for Disease Control and Prevention (CDC), and the National Institute on Drug Abuse (NIDA), and the Robert Wood Johnson Foundation.
 
-The above studies are in collaboration with researchers from Emory University (Medicine, Public Health & Nursing), Georgia Department of Public Health, the Centers for Disease Control and Prevention (CDC), and various other universities across the United States.
+The above studies are in collaboration with researchers from Emory University (Medicine, Public Health & Nursing), Georgia Department of Public Health, the Centers for Disease Control and Prevention (CDC), and various universities across the United States.
 
 Last updated: Aug 10th, 2020.
