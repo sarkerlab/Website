@@ -87,6 +87,18 @@ team:
     pubs: https://www.researchgate.net/profile/Yuan_Chi_Yang
     email: mailto:yuan-chi.yang@emory.edu
     id: "row2"
+  - image_path: /assets/images/ishan.jpg
+    title: "Ishan Shezad"
+    excerpt: "External Student Collaborator (UTD)"
+    email: mailto:Ishan.Shezad@utdallas.edu 
+    id: "row2"
+  - image_path: /assets/images/aamir.jpg
+    title: "Aamir Abbas, MD"
+    excerpt: "External Student Collaborator (CMU)"
+    expertise: Epidemiology; Data analytics
+    linkedin: https://www.linkedin.com/in/aamir-abbas-a84a84a7/
+    email: mailto:aamir.abp@gmail.com
+    id: "row2" 
   - image_path: /assets/images/oreo.png
     title: "Oreo"
     interests: "Cleaning, Recharging, Getting stuck"
