@@ -71,13 +71,6 @@ team:
     pubs: https://www.researchgate.net/profile/Abeed_Sarker
     linkedin: https://www.linkedin.com/in/abeed-sarker-572a1921/
     email: mailto:abeed@dbmi.emory.edu
-  - image_path: /assets/images/coreyshaw.jpg
-    title: "Corey Shaw"
-    interests: "Traveling, Sports, Startups, VR"
-    expertise: HTML, CSS, Swift, JS
-    excerpt: "Software Engineer"
-    email: mailto:coreyrshaw@gmail.com
-    linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
@@ -164,6 +157,13 @@ alumni:
 - image_path: /assets/images/maurice.png
   title: "Maurice Pollard"
   excerpt: "Web Developer"
+- image_path: /assets/images/coreyshaw.jpg
+  title: "Corey Shaw"
+  interests: "Traveling, Sports, Startups, VR"
+  expertise: HTML, CSS, Swift, JS
+  excerpt: "Software Engineer"
+  email: mailto:coreyrshaw@gmail.com
+  linkedin: https://www.linkedin.com/in/corey-shaw-626969b2
 ---
 
 <h1>Team Members (alphabetical order; lastname)</h1>
