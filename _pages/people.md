@@ -83,6 +83,7 @@ team:
   - image_path: /assets/images/ishan.jpg
     title: "Ishan Shezad"
     excerpt: "External Student Collaborator (UTD)"
+    interests: "Web design; Fin Tech; Data analytics"
     email: mailto:Ishan.Shezad@utdallas.edu 
     id: "row2"
   - image_path: /assets/images/aamir.jpg
