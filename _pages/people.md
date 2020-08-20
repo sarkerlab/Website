@@ -7,6 +7,7 @@ entries_layout: grid
 classes: wide
 author_profile: false
 
+
 team:
   - image_path: /assets/images/mohammed_ali.jpg
     title: "Mohammed Ali Al-Garadi"
