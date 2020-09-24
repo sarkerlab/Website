@@ -1,4 +1,3 @@
-
 ---
 permalink: /lw_summ/
 title: "A Light-weight Text Summarization System for Fast Access to Medical Evidence"
