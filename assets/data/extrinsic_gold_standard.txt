@@ -1,0 +1,110 @@
+Query: What measures can be taken to lower the transmission of COVID-19?
+Title: An Automatic Disinfection System for Passenger Luggage at Airports and Train/Bus Stations
+PMCID: PMC7305480
+
+This paper proposes one solution to reduce the transmission of the disease through fomites such as passenger luggage and packages at bus/train stations and airports in the country. 
+A tunnel system similar to the X-ray machines used for passenger luggage at airports has been proposed for disinfection of fomites. 
+It is to be noted that while the disinfection systems are designed to effectively mitigate the threat of coronavirus on the passenger fomite surfaces, these are purely based on theoretical calculations and have not been tested with actual viral particles. 
+
+---
+
+Query: What measures can be taken to lower the transmission of COVID-19?
+Title: Spread and Impact of COVID-19 in China: A Systematic Review and Synthesis of Predictions From Transmission-Dynamic Models
+PMID: 32626719
+
+The overall median basic reproduction number (R0) was 3.77 [interquartile range (IQR) 2.78–5.13], which dropped to a controlled reproduction number (Rc) of 1.88 (IQR 1.41–2.24) after city lockdown. 
+Although interventions in China have been effective in controlling secondary transmission, sustained global efforts are needed to contain an emerging pandemic. 
+Alternative interventions can be explored using modelling studies to better inform policymaking as the outbreak continues.
+
+---
+Query: What measures can be taken to lower the transmission of COVID-19?
+Title: Transmission and clinical characteristics of asymptomatic patients with SARS-CoV-2 infection
+PMCID: PMC7291769
+
+However, it has recently been found that individuals infected with SARS-CoV-2 can be asymptomatic, and simultaneously a source of infection in others. 
+The viral load detected in nasopharyngeal swabs of asymptomatic carriers is relatively high, with a great potential for transmission. 
+More attention should be paid to the insidious spread of disease and harm contributed by asymptomatic SARS-CoV-2 carriers. 
+
+---
+
+Query: What measures can be taken to lower the transmission of COVID-19?
+Title: Disinfection of Endoscopy and Reusability of Accessories
+PMCID: PMC7295270
+
+Transmission of viral infections during endoscopy is quite rare and, it is usually the result of noncompliance from the essential steps of reprocessing. 
+Noncritical environmental surfaces frequently touched by hands (e.g., bedside tables and bed rails) and endoscopy furniture and floor should be considered heavily contaminated in patients with intermediate or high risk of COVID-19 and should be thoroughly disinfected at the end of each procedure.
+Staff involved in reprocessing and the cleaning of endoscopy rooms should utilize personal protective equipment (PPE) including N95 mask. 
+
+---
+Query: What are some of the mental health impacts of COVID19?
+Title: Police Stress, Mental Health, and Resiliency during the COVID-19 Pandemic
+PMID: 32837167
+
+The COVID-19 pandemic created social upheaval and altered norms for all members of society, but its effects on first responders have been particularly profound. 
+The impact of the COVID-19 pandemic on officer stress, mental health, resiliency, and misconduct is explored drawing insight from reactions to the HIV epidemic over two decades earlier and the terrorist attacks of September 11, 2001. 
+COVID-19 policing is hypothesized to serve as a significant stressor for officers and compound the general and organizational stress associated with the occupation. 
+
+---
+Query: What are some of the mental health impacts of COVID19?
+Title: Structuring mental health support for frontline caregivers during COVID-19: lessons from organisational scholarship on unit-aligned support
+PMCID: PMC7299658
+
+In high-risk, high-pressure fields, frontline professionals may perceive mental health support as coming at the expense of urgent frontline work goals (ie, patient care) and as clashing with their central professional identities (ie, as expert, self-reliant ironmen/women).
+We highlight parallels between providing support to frontline military units and frontline healthcare units during COVID-19 and surface implications for structuring mental health supports during a crisis. 
+Addressing frontline caregivers’ mental health needs is a vital part of health delivery organisations’ response to COVID-19, but without thoughtful organisational design, well-intentioned efforts may fall short. 
+
+---
+Query: What are some of the mental health impacts of COVID19?
+Title: Improving Access and Mental Health for Youth Through Virtual Models of Care
+PMCID: PMC7313297
+
+The overall objective of this research is to evaluate the use of a mobile health smartphone application (app) to improve the mental health of youth between the ages of 14–25 years, with symptoms of anxiety/depression. 
+Expectedly, the demographics revealed that Anxiety Disorders and Mood Disorders were highly prevalent within the sample (71.9% and 67.5% respectively). 
+Findings from the qualitative summary established that both staff and youth found the software and platform beneficial. 
+
+---
+Query: What is the common prognosis for COVID-19 infection?
+Title: Leucocyte Subsets Effectively Predict the Clinical Outcome of Patients With COVID-19 Pneumonia: A Retrospective Case-Control Study
+PMID: 32626680
+
+Methods: Hospitalized COVID-19 pneumonia patients with definitive clinical outcome (cured or died) were retrospectively studied. 
+Binary logistic regression showed that NpTR was an independent prognostic factor for mortality. 
+Conclusion: These results indicate that leucocyte subsets predict the clinical outcome of patients with COVID-19 pneumonia with high efficiency.
+
+---
+
+Query: What is the common prognosis for COVID-19 infection?
+Title: Clinical Characteristics and Differential Clinical Diagnosis of Novel Coronavirus Disease 2019 (COVID-19)
+PMCID: PMC7189401
+
+The causative organism is SARS-CoV-2, RNA virus of subgenus Sarbecovirus, similar to the SARS virus, and seventh member of the human coronavirus family responsible for this zoonotic infection. 
+The most common symptom as studied from various cohorts of COVID-19 patients are fever (83–98%) followed by fatigue (70%) and dry cough (59%); gastrointestinal symptoms are relatively uncommon differentiating it from SARS and MERS. 
+Poor prognostic factors are elderly, co-morbidities, severe lymphopaenia, high CRP and D-dimer >1 μg/L.
+
+---
+Query: What treatment is effective for covid?
+Title: Whole Genome Analysis and Targeted Drug Discovery Using Computational Methods and High Throughput Screening Tools for Emerged Novel Coronavirus (2019-nCoV)
+PMID: 32617527
+
+Molecular docking results against protein targets Furin, papain like proteases, RdRp and Spike glycoprotein had shown paritaprevir, ritonavir, entecavir and chloroquine derivatives are the best drugs to inhibit multi targets of coronavirus infection including natural compounds corosolic acid, baicalin and glycyrrhizic acid with minimal inhibitory concentrations. 
+Thus we propose use of paritaprevir, entecavir, ritonavir and chloroquine derivatives as best drug combination along with niacinamide, folic acid and zinc supplements to treat novel coronavirus infection. 
+We also propose use of plant protease inhibitors (PI’s) and Anti-IL8, IL-6, IL-2 as future drug models against coronavirus.
+
+---
+Query: What are the common risks of COVID-19 on targeted populations?
+Title: Risks of Novel Coronavirus Disease (COVID-19) in Pregnancy; a Narrative Review
+PMID: 32232217
+
+In this narrative review, were searched for all articles published in various databases including PubMed, Scopus, Embase, Science Direct, and Web of Science using MeSH-compliant keywords including COVID-19, Pregnancy, Vertical transmission, Coronavirus 2019, SARS-CoV-2 and 2019-nCoV from December 2019 to March 18, 2020 and reviewed them. 
+A review of 13 final articles published in this area revealed that COVID-19 can cause fetal distress, miscarriage, respiratory distress and preterm delivery in pregnant women but does not infect newborns.
+Overall, due to lack of appropriate data about the effect of COVID-19 on pregnancy, it is necessary to monitor suspected pregnant women before and after delivery. 
+
+---
+Query: How does the impact of COVID-19 vary based on social inequalities?
+Title: COVID‐19 and Ethnic Inequalities in England and Wales.
+DOI: https://doi.org/10.1111/1475-5890.12228
+
+We draw on current mortality and case data, alongside pre‐crisis labour force data, to investigate the relative vulnerability of different ethnic groups to adverse health and economic impacts. 
+Distinctive patterns of occupational concentration also highlight the vulnerability of some groups to the economic consequences of social distancing measures, with Bangladeshi and Pakistani men particularly likely to be employed in occupations directly affected by the UK's ‘lockdown’. 
+We show that differences in household structures and inequalities in access to savings mean that a number of minority groups are also less able to weather short‐term shocks to their income. 
+---
