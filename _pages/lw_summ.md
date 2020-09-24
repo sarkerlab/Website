@@ -12,4 +12,5 @@ As the volume of published medical research continues to grow rapidly, staying u
 ## Resources
 
 Extrinsic evaluation gold standard (small)
-COVID19 word2vec model (relatively small; larger set to be made available soon): <a href = "https://github.com/coreyrshaw/Website/blob/master/assets/data/extrinsic_gold_standard.txt"> Download </a>
+COVID19 word2vec model (relatively small; larger set to be made available soon): 
+<a href = "https://github.com/coreyrshaw/Website/blob/master/assets/data/extrinsic_gold_standard.txt"> Download </a>
