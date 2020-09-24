@@ -3,17 +3,6 @@
 permalink: /lw_summ/
 title: "A Light-weight Text Summarization System for Fast Access to Medical Evidence"
 excerpt: "Text summarization for evidence based medicine"
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
 
