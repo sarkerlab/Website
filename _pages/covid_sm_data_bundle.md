@@ -51,7 +51,7 @@ Four covid-19-related models (Available <a href="https://drive.google.com/drive/
 
 ## Funding, Collaborations and Acknowledgments
 
-The studies are currently funded partially or fully by Emory University, the Centers for Disease Control and Prevention (CDC), and the National Institute on Drug Abuse (NIDA), and the Robert Wood Johnson Foundation.
+The studies are currently funded partially or fully by Emory University, the Centers for Disease Control and Prevention (CDC), and the National Institute on Drug Abuse (NIDA).
 
 The above studies are in collaboration with researchers from Emory University (Medicine, Public Health & Nursing), Georgia Department of Public Health, the Centers for Disease Control and Prevention (CDC), and various universities across the United States.
 
