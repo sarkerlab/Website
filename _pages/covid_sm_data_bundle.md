@@ -8,9 +8,10 @@ This page contains resources associated with multiple studies (completed and ong
 
 # Dashboards
 Our COVID-19 Twitter dashboards are available now (while under construction; updated 12/21/20):
-
-<a href="https://covid-19-social-media-274501.uk.r.appspot.com/covid-global"> GLOBAL DASHBOARD </a>
+<center>
+<a href="https://covid-19-social-media-274501.uk.r.appspot.com/covid-global"> GLOBAL DASHBOARD </a></br>
 <a href="https://covid-19-social-media-274501.uk.r.appspot.com/covid-us"> US DASHBOARD </a>
+</center>
 - 
 
 Research topics/studies:
