@@ -11,7 +11,6 @@ Our COVID-19 Twitter dashboards are available now (while under construction; upd
 <center>
 <a href="https://covid-19-social-media-274501.uk.r.appspot.com/covid-global"> GLOBAL DASHBOARD </a>
 <br />
-
 <a href="https://covid-19-social-media-274501.uk.r.appspot.com/covid-us"> US DASHBOARD </a>
 </center>
 - 
