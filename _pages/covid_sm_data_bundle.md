@@ -6,6 +6,13 @@ title: "COVID-19 Social Media Data Bundle"
 
 This page contains resources associated with multiple studies (completed and ongoing) focusing on COVID-19 (scroll down). 
 
+# Dashboards
+Our COVID-19 Twitter dashboards are available now (while under construction; updated 12/21/20):
+
+<a href="https://covid-19-social-media-274501.uk.r.appspot.com/covid-global"> GLOBAL DASHBOARD </a>
+<a href="https://covid-19-social-media-274501.uk.r.appspot.com/covid-us"> US DASHBOARD </a>
+- 
+
 Research topics/studies:
 
 - Syndromic surveillance: we are utilizing real-time social media data, natural language processing and machine learning methods to identify and track symptom distributions over time. 
