@@ -104,7 +104,6 @@ team:
     expertise: Running over keyboards; Disrupting meetings
     excerpt: "Professor of Screaming"
 
-
 collaborators:
   - image_path: /assets/images/jeanmarie.png
     title: "Jeanmarie Perrone"
