@@ -61,7 +61,7 @@ team:
     title: "Demi Majekodunmi"
     excerpt: "Undergraduate Research Assistant"
     linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
-  - image_path: /assets/images/abeed2.jpg
+  - image_path: /assets/images/Angel.JPG
     title: "Angel Xie"
     excerpt: "Undergraduate Research Assistant"
     interests: Science
