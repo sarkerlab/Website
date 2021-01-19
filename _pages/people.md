@@ -77,7 +77,6 @@ team:
     pubs: https://www.researchgate.net/profile/Abeed_Sarker
     linkedin: https://www.linkedin.com/in/abeed-sarker-572a1921/
     email: mailto:abeed@dbmi.emory.edu
-    
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
