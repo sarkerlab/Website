@@ -61,7 +61,7 @@ team:
     title: "Demi Majekodunmi"
     excerpt: "Undergraduate Research Assistant"
     linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
-- image_path: /assets/images/abeed2.jpg
+  - image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
     interests: "Programming, sports, music, literature, gaming, big data, AI"
