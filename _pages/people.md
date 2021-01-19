@@ -62,6 +62,12 @@ team:
     excerpt: "Undergraduate Research Assistant"
     linkedin: https://www.linkedin.com/in/demi-majekodunmi-299104162/
   - image_path: /assets/images/abeed2.jpg
+    title: "Angel Xie"
+    excerpt: "Undergraduate Research Assistant"
+    interests: Science
+    expertise: Programming
+    linkedin: https://www.linkedin.com/in/angel-xie-811b83172/
+- image_path: /assets/images/abeed2.jpg
     title: "Abeed Sarker"
     excerpt: "Principal Investigator"
     interests: "Programming, sports, music, literature, gaming, big data, AI"
@@ -71,6 +77,7 @@ team:
     pubs: https://www.researchgate.net/profile/Abeed_Sarker
     linkedin: https://www.linkedin.com/in/abeed-sarker-572a1921/
     email: mailto:abeed@dbmi.emory.edu
+    
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
     excerpt: "Postdoctoral Scholar"
