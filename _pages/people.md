@@ -71,7 +71,7 @@ team:
     pubs: https://www.researchgate.net/profile/Abeed_Sarker
     linkedin: https://www.linkedin.com/in/abeed-sarker-572a1921/
     email: mailto:abeed@dbmi.emory.edu
-  - image_path: /assets/images/angel.JPG
+  - image_path: /assets/images/angel.png
     title: "Angel Xie"
     excerpt: "Undergraduate Research Assistant"
     interests: Science
