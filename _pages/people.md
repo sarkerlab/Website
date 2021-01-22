@@ -74,8 +74,8 @@ team:
   - image_path: /assets/images/angel.png
     title: "Angel Xie"
     excerpt: "Undergraduate Research Assistant"
-    interests: Science
-    expertise: Programming
+    interests: Tennis, Music, Artificial Intelligence
+    expertise: Data Analytics, Programming, NLP
     linkedin: https://www.linkedin.com/in/angel-xie-811b83172/
   - image_path: /assets/images/yuan-chi.jpg
     title: "Yuan-Chi Yang"
