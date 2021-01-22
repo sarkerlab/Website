@@ -143,6 +143,7 @@ collaborators:
     excerpt: "University of Pennsylvania"
     site: https://healthlanguageprocessing.org/
    
+   
 alumni:
 - image_path: /assets/images/Annika.jpg
   title: "Annika DeRoos"
