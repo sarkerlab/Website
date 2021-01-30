@@ -41,6 +41,7 @@ Research topics/studies:
 
 # Resources:
 
+
 ## Twitter Symptom Lexicon
 Twitter COVID-19 <a href="https://docs.google.com/document/d/1CdhpuNbCV4egYv0TA7hpTqVL3ZfAxyLQipAepDfPzBQ/edit?usp=sharing"> Symptom Lexicon</a> [1]
 
