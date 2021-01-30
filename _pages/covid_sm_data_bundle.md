@@ -37,7 +37,7 @@ Research topics/studies:
 
 # Publications 
 
-[1] Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Selt-reported COVID-19 symptoms on Twitter: An analysis and a research resource. [in press]. <a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20067421v3"> Preprint </a> 
+[1] Sarker A, Lakamana S, Hogg-Bremer W, Xie A, Al-Garadi MA, Yang YC. Self-reported COVID-19 symptoms on Twitter: an analysis and a research resource. J Am Med Inform Assoc. 2020 Aug 1;27(8):1310-1315. doi: 10.1093/jamia/ocaa116. PMID: 32620975; PMCID: PMC7337747. [<a href="https://pubmed.ncbi.nlm.nih.gov/32620975/"> Paper </a>]
 
 # Resources:
 
