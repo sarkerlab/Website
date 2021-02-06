@@ -61,4 +61,4 @@ The studies are currently funded partially or fully by Emory University, the Cen
 
 The above studies are in collaboration with researchers from Emory University (Medicine, Public Health & Nursing), Georgia Department of Public Health, the Centers for Disease Control and Prevention (CDC), and various universities across the United States.
 
-Last updated: Dec 10th, 2020.
+Last updated: Dec 11th, 2020.
