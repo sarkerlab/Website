@@ -20,7 +20,6 @@ Our COVID-19 Twitter dashboards are available now (while under construction; upd
 
 </center>
 
-
 Research topics/studies:
 
 - Syndromic surveillance: we are utilizing real-time social media data, natural language processing and machine learning methods to identify and track symptom distributions over time. 
