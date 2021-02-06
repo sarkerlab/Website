@@ -26,8 +26,11 @@ Research topics/studies:
 - Syndromic surveillance: we are utilizing real-time social media data, natural language processing and machine learning methods to identify and track symptom distributions over time. 
 
 - Localized outbreak detection: we are combining retrospective data from social media with data from GDPH to train AI algorithms that can detect patterns in social media chatter indicative of localized outbreaks.
+
 - Toxicosurveillance: we are building methods that can detect unapproved treatments that are promoted for treating COVID to identify potential toxic exposures. 
+
 - MOUD treatment access during COVID: in line with our past work, we are studying how COVID is affecting SUD and OUD treatment programs.
+
 - COVID and mental health: we are studying the impact of COVID on mental health using social media mining methods. 
 
 - Impact of COVID on national services such as Medicaid.
